@@ -1,0 +1,7 @@
+.venv/
+__pycache__/
+checkpoints/
+runs/**/states/
+runs/**/*.npz
+runs/**/*.npy
+runs/pilot-001/

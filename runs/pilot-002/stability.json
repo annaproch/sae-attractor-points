@@ -1,0 +1,32 @@
+[
+  {
+    "probe_id": 0,
+    "endpoint_probe_id": 0,
+    "mode": "new_coordinates",
+    "repeat": 0,
+    "initial_distance": 0.007038797717541456,
+    "final_distance": 0.0,
+    "returned": true,
+    "status": "fixed_point_candidate"
+  },
+  {
+    "probe_id": 1,
+    "endpoint_probe_id": 0,
+    "mode": "new_coordinates",
+    "repeat": 1,
+    "initial_distance": 0.007078323047608137,
+    "final_distance": 0.0,
+    "returned": true,
+    "status": "fixed_point_candidate"
+  },
+  {
+    "probe_id": 2,
+    "endpoint_probe_id": 0,
+    "mode": "new_coordinates",
+    "repeat": 2,
+    "initial_distance": 0.006981590297073126,
+    "final_distance": 0.0,
+    "returned": true,
+    "status": "fixed_point_candidate"
+  }
+]

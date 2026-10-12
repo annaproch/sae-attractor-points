@@ -1,0 +1,2696 @@
+[
+  {
+    "probe_id": 0,
+    "feature_id": null,
+    "threshold_multiplier": 0,
+    "amplitude": 0
+  },
+  {
+    "probe_id": 1,
+    "feature_id": 120,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.357481956481934
+  },
+  {
+    "probe_id": 2,
+    "feature_id": 120,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.343942642211914
+  },
+  {
+    "probe_id": 3,
+    "feature_id": 120,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 81.37577056884766
+  },
+  {
+    "probe_id": 4,
+    "feature_id": 610,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.684421539306641
+  },
+  {
+    "probe_id": 5,
+    "feature_id": 610,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.390148162841797
+  },
+  {
+    "probe_id": 6,
+    "feature_id": 610,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 85.56059265136719
+  },
+  {
+    "probe_id": 7,
+    "feature_id": 714,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.524558067321777
+  },
+  {
+    "probe_id": 8,
+    "feature_id": 714,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 36.87858581542969
+  },
+  {
+    "probe_id": 9,
+    "feature_id": 714,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 147.51434326171875
+  },
+  {
+    "probe_id": 10,
+    "feature_id": 1039,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 15.04268741607666
+  },
+  {
+    "probe_id": 11,
+    "feature_id": 1039,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 48.136600494384766
+  },
+  {
+    "probe_id": 12,
+    "feature_id": 1039,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 192.54640197753906
+  },
+  {
+    "probe_id": 13,
+    "feature_id": 1107,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 16.198646545410156
+  },
+  {
+    "probe_id": 14,
+    "feature_id": 1107,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 51.835670471191406
+  },
+  {
+    "probe_id": 15,
+    "feature_id": 1107,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 207.34268188476562
+  },
+  {
+    "probe_id": 16,
+    "feature_id": 1246,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.839986324310303
+  },
+  {
+    "probe_id": 17,
+    "feature_id": 1246,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.887956619262695
+  },
+  {
+    "probe_id": 18,
+    "feature_id": 1246,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 87.55182647705078
+  },
+  {
+    "probe_id": 19,
+    "feature_id": 1297,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.104522705078125
+  },
+  {
+    "probe_id": 20,
+    "feature_id": 1297,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 41.934471130371094
+  },
+  {
+    "probe_id": 21,
+    "feature_id": 1297,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 167.73788452148438
+  },
+  {
+    "probe_id": 22,
+    "feature_id": 1397,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.009870529174805
+  },
+  {
+    "probe_id": 23,
+    "feature_id": 1397,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 32.031585693359375
+  },
+  {
+    "probe_id": 24,
+    "feature_id": 1397,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 128.1263427734375
+  },
+  {
+    "probe_id": 25,
+    "feature_id": 1450,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.153079986572266
+  },
+  {
+    "probe_id": 26,
+    "feature_id": 1450,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 42.0898551940918
+  },
+  {
+    "probe_id": 27,
+    "feature_id": 1450,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 168.3594207763672
+  },
+  {
+    "probe_id": 28,
+    "feature_id": 1500,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 15.1106595993042
+  },
+  {
+    "probe_id": 29,
+    "feature_id": 1500,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 48.35411071777344
+  },
+  {
+    "probe_id": 30,
+    "feature_id": 1500,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 193.41644287109375
+  },
+  {
+    "probe_id": 31,
+    "feature_id": 1531,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.60415267944336
+  },
+  {
+    "probe_id": 32,
+    "feature_id": 1531,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 30.733287811279297
+  },
+  {
+    "probe_id": 33,
+    "feature_id": 1531,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 122.93315124511719
+  },
+  {
+    "probe_id": 34,
+    "feature_id": 1588,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.307936191558838
+  },
+  {
+    "probe_id": 35,
+    "feature_id": 1588,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.185396194458008
+  },
+  {
+    "probe_id": 36,
+    "feature_id": 1588,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 80.74158477783203
+  },
+  {
+    "probe_id": 37,
+    "feature_id": 1875,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 17.140060424804688
+  },
+  {
+    "probe_id": 38,
+    "feature_id": 1875,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 54.84819030761719
+  },
+  {
+    "probe_id": 39,
+    "feature_id": 1875,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 219.39276123046875
+  },
+  {
+    "probe_id": 40,
+    "feature_id": 2084,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.020770072937012
+  },
+  {
+    "probe_id": 41,
+    "feature_id": 2084,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 35.26646423339844
+  },
+  {
+    "probe_id": 42,
+    "feature_id": 2084,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 141.06585693359375
+  },
+  {
+    "probe_id": 43,
+    "feature_id": 2121,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.960318088531494
+  },
+  {
+    "probe_id": 44,
+    "feature_id": 2121,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 22.27301788330078
+  },
+  {
+    "probe_id": 45,
+    "feature_id": 2121,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 89.09207153320312
+  },
+  {
+    "probe_id": 46,
+    "feature_id": 2285,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 15.614266395568848
+  },
+  {
+    "probe_id": 47,
+    "feature_id": 2285,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 49.96565246582031
+  },
+  {
+    "probe_id": 48,
+    "feature_id": 2285,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 199.86260986328125
+  },
+  {
+    "probe_id": 49,
+    "feature_id": 2289,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.96019172668457
+  },
+  {
+    "probe_id": 50,
+    "feature_id": 2289,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 35.07261276245117
+  },
+  {
+    "probe_id": 51,
+    "feature_id": 2289,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 140.2904510498047
+  },
+  {
+    "probe_id": 52,
+    "feature_id": 2517,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.449398040771484
+  },
+  {
+    "probe_id": 53,
+    "feature_id": 2517,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 68.63807678222656
+  },
+  {
+    "probe_id": 54,
+    "feature_id": 2517,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 274.55230712890625
+  },
+  {
+    "probe_id": 55,
+    "feature_id": 2625,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.061151504516602
+  },
+  {
+    "probe_id": 56,
+    "feature_id": 2625,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 38.59568405151367
+  },
+  {
+    "probe_id": 57,
+    "feature_id": 2625,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 154.3827362060547
+  },
+  {
+    "probe_id": 58,
+    "feature_id": 2692,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.568438529968262
+  },
+  {
+    "probe_id": 59,
+    "feature_id": 2692,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.219003677368164
+  },
+  {
+    "probe_id": 60,
+    "feature_id": 2692,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 96.87601470947266
+  },
+  {
+    "probe_id": 61,
+    "feature_id": 2971,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.718618392944336
+  },
+  {
+    "probe_id": 62,
+    "feature_id": 2971,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.6995792388916
+  },
+  {
+    "probe_id": 63,
+    "feature_id": 2971,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 98.7983169555664
+  },
+  {
+    "probe_id": 64,
+    "feature_id": 3093,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.324673652648926
+  },
+  {
+    "probe_id": 65,
+    "feature_id": 3093,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 29.838956832885742
+  },
+  {
+    "probe_id": 66,
+    "feature_id": 3093,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 119.35582733154297
+  },
+  {
+    "probe_id": 67,
+    "feature_id": 3174,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.31579875946045
+  },
+  {
+    "probe_id": 68,
+    "feature_id": 3174,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 26.61055564880371
+  },
+  {
+    "probe_id": 69,
+    "feature_id": 3174,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 106.44222259521484
+  },
+  {
+    "probe_id": 70,
+    "feature_id": 3270,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.527700424194336
+  },
+  {
+    "probe_id": 71,
+    "feature_id": 3270,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.08864212036133
+  },
+  {
+    "probe_id": 72,
+    "feature_id": 3270,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 160.3545684814453
+  },
+  {
+    "probe_id": 73,
+    "feature_id": 3276,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.406464099884033
+  },
+  {
+    "probe_id": 74,
+    "feature_id": 3276,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 23.700685501098633
+  },
+  {
+    "probe_id": 75,
+    "feature_id": 3276,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 94.80274200439453
+  },
+  {
+    "probe_id": 76,
+    "feature_id": 3701,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.851618766784668
+  },
+  {
+    "probe_id": 77,
+    "feature_id": 3701,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 41.125179290771484
+  },
+  {
+    "probe_id": 78,
+    "feature_id": 3701,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 164.50071716308594
+  },
+  {
+    "probe_id": 79,
+    "feature_id": 3706,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.960187911987305
+  },
+  {
+    "probe_id": 80,
+    "feature_id": 3706,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 35.072601318359375
+  },
+  {
+    "probe_id": 81,
+    "feature_id": 3706,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 140.2904052734375
+  },
+  {
+    "probe_id": 82,
+    "feature_id": 3917,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.98539924621582
+  },
+  {
+    "probe_id": 83,
+    "feature_id": 3917,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.55327796936035
+  },
+  {
+    "probe_id": 84,
+    "feature_id": 3917,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 102.2131118774414
+  },
+  {
+    "probe_id": 85,
+    "feature_id": 4019,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.919696807861328
+  },
+  {
+    "probe_id": 86,
+    "feature_id": 4019,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 34.943031311035156
+  },
+  {
+    "probe_id": 87,
+    "feature_id": 4019,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 139.77212524414062
+  },
+  {
+    "probe_id": 88,
+    "feature_id": 4509,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.618762969970703
+  },
+  {
+    "probe_id": 89,
+    "feature_id": 4509,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 33.98004150390625
+  },
+  {
+    "probe_id": 90,
+    "feature_id": 4509,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 135.920166015625
+  },
+  {
+    "probe_id": 91,
+    "feature_id": 4535,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.829668998718262
+  },
+  {
+    "probe_id": 92,
+    "feature_id": 4535,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 28.254940032958984
+  },
+  {
+    "probe_id": 93,
+    "feature_id": 4535,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 113.01976013183594
+  },
+  {
+    "probe_id": 94,
+    "feature_id": 4714,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.962175369262695
+  },
+  {
+    "probe_id": 95,
+    "feature_id": 4714,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 44.67896270751953
+  },
+  {
+    "probe_id": 96,
+    "feature_id": 4714,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 178.71585083007812
+  },
+  {
+    "probe_id": 97,
+    "feature_id": 5105,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.965014457702637
+  },
+  {
+    "probe_id": 98,
+    "feature_id": 5105,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 44.688045501708984
+  },
+  {
+    "probe_id": 99,
+    "feature_id": 5105,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 178.75218200683594
+  },
+  {
+    "probe_id": 100,
+    "feature_id": 5318,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 5.855324745178223
+  },
+  {
+    "probe_id": 101,
+    "feature_id": 5318,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 18.73703956604004
+  },
+  {
+    "probe_id": 102,
+    "feature_id": 5318,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 74.94815826416016
+  },
+  {
+    "probe_id": 103,
+    "feature_id": 5393,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.782852172851562
+  },
+  {
+    "probe_id": 104,
+    "feature_id": 5393,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 28.105125427246094
+  },
+  {
+    "probe_id": 105,
+    "feature_id": 5393,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 112.42050170898438
+  },
+  {
+    "probe_id": 106,
+    "feature_id": 5778,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.51887321472168
+  },
+  {
+    "probe_id": 107,
+    "feature_id": 5778,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.060394287109375
+  },
+  {
+    "probe_id": 108,
+    "feature_id": 5778,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 160.2415771484375
+  },
+  {
+    "probe_id": 109,
+    "feature_id": 5934,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.65693473815918
+  },
+  {
+    "probe_id": 110,
+    "feature_id": 5934,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.5021915435791
+  },
+  {
+    "probe_id": 111,
+    "feature_id": 5934,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 98.0087661743164
+  },
+  {
+    "probe_id": 112,
+    "feature_id": 5983,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.325547695159912
+  },
+  {
+    "probe_id": 113,
+    "feature_id": 5983,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.24175262451172
+  },
+  {
+    "probe_id": 114,
+    "feature_id": 5983,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 80.96701049804688
+  },
+  {
+    "probe_id": 115,
+    "feature_id": 6035,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.091032981872559
+  },
+  {
+    "probe_id": 116,
+    "feature_id": 6035,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 35.49130630493164
+  },
+  {
+    "probe_id": 117,
+    "feature_id": 6035,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 141.96522521972656
+  },
+  {
+    "probe_id": 118,
+    "feature_id": 6047,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.222888946533203
+  },
+  {
+    "probe_id": 119,
+    "feature_id": 6047,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 67.91324615478516
+  },
+  {
+    "probe_id": 120,
+    "feature_id": 6047,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 271.6529846191406
+  },
+  {
+    "probe_id": 121,
+    "feature_id": 6335,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.591581344604492
+  },
+  {
+    "probe_id": 122,
+    "feature_id": 6335,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 78.69306182861328
+  },
+  {
+    "probe_id": 123,
+    "feature_id": 6335,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 314.7722473144531
+  },
+  {
+    "probe_id": 124,
+    "feature_id": 6552,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.199997901916504
+  },
+  {
+    "probe_id": 125,
+    "feature_id": 6552,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 23.039993286132812
+  },
+  {
+    "probe_id": 126,
+    "feature_id": 6552,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 92.15997314453125
+  },
+  {
+    "probe_id": 127,
+    "feature_id": 6705,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.401449203491211
+  },
+  {
+    "probe_id": 128,
+    "feature_id": 6705,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 36.48463821411133
+  },
+  {
+    "probe_id": 129,
+    "feature_id": 6705,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 145.9385528564453
+  },
+  {
+    "probe_id": 130,
+    "feature_id": 7041,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.786001205444336
+  },
+  {
+    "probe_id": 131,
+    "feature_id": 7041,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.91520309448242
+  },
+  {
+    "probe_id": 132,
+    "feature_id": 7041,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 163.6608123779297
+  },
+  {
+    "probe_id": 133,
+    "feature_id": 7114,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.309618949890137
+  },
+  {
+    "probe_id": 134,
+    "feature_id": 7114,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 39.39078140258789
+  },
+  {
+    "probe_id": 135,
+    "feature_id": 7114,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 157.56312561035156
+  },
+  {
+    "probe_id": 136,
+    "feature_id": 7136,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.062143325805664
+  },
+  {
+    "probe_id": 137,
+    "feature_id": 7136,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 64.19886016845703
+  },
+  {
+    "probe_id": 138,
+    "feature_id": 7136,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 256.7954406738281
+  },
+  {
+    "probe_id": 139,
+    "feature_id": 7142,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.338175773620605
+  },
+  {
+    "probe_id": 140,
+    "feature_id": 7142,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 39.48216247558594
+  },
+  {
+    "probe_id": 141,
+    "feature_id": 7142,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 157.92864990234375
+  },
+  {
+    "probe_id": 142,
+    "feature_id": 7199,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.623211860656738
+  },
+  {
+    "probe_id": 143,
+    "feature_id": 7199,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.194278717041016
+  },
+  {
+    "probe_id": 144,
+    "feature_id": 7199,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 84.77711486816406
+  },
+  {
+    "probe_id": 145,
+    "feature_id": 7221,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 15.41175365447998
+  },
+  {
+    "probe_id": 146,
+    "feature_id": 7221,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 49.31761169433594
+  },
+  {
+    "probe_id": 147,
+    "feature_id": 7221,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 197.27044677734375
+  },
+  {
+    "probe_id": 148,
+    "feature_id": 7266,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.762486457824707
+  },
+  {
+    "probe_id": 149,
+    "feature_id": 7266,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.839956283569336
+  },
+  {
+    "probe_id": 150,
+    "feature_id": 7266,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 99.35982513427734
+  },
+  {
+    "probe_id": 151,
+    "feature_id": 7330,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.8584818840026855
+  },
+  {
+    "probe_id": 152,
+    "feature_id": 7330,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.14714241027832
+  },
+  {
+    "probe_id": 153,
+    "feature_id": 7330,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 100.58856964111328
+  },
+  {
+    "probe_id": 154,
+    "feature_id": 7336,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.7857608795166
+  },
+  {
+    "probe_id": 155,
+    "feature_id": 7336,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 66.51443481445312
+  },
+  {
+    "probe_id": 156,
+    "feature_id": 7336,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 266.0577392578125
+  },
+  {
+    "probe_id": 157,
+    "feature_id": 7512,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.528410911560059
+  },
+  {
+    "probe_id": 158,
+    "feature_id": 7512,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 36.89091491699219
+  },
+  {
+    "probe_id": 159,
+    "feature_id": 7512,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 147.56365966796875
+  },
+  {
+    "probe_id": 160,
+    "feature_id": 7559,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.792695999145508
+  },
+  {
+    "probe_id": 161,
+    "feature_id": 7559,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.93662643432617
+  },
+  {
+    "probe_id": 162,
+    "feature_id": 7559,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 163.7465057373047
+  },
+  {
+    "probe_id": 163,
+    "feature_id": 7612,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.677327156066895
+  },
+  {
+    "probe_id": 164,
+    "feature_id": 7612,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 27.767446517944336
+  },
+  {
+    "probe_id": 165,
+    "feature_id": 7612,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 111.06978607177734
+  },
+  {
+    "probe_id": 166,
+    "feature_id": 7665,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.90406608581543
+  },
+  {
+    "probe_id": 167,
+    "feature_id": 7665,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 70.09300994873047
+  },
+  {
+    "probe_id": 168,
+    "feature_id": 7665,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 280.3720397949219
+  },
+  {
+    "probe_id": 169,
+    "feature_id": 7716,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.343855857849121
+  },
+  {
+    "probe_id": 170,
+    "feature_id": 7716,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 26.70033836364746
+  },
+  {
+    "probe_id": 171,
+    "feature_id": 7716,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 106.80135345458984
+  },
+  {
+    "probe_id": 172,
+    "feature_id": 7717,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.742980003356934
+  },
+  {
+    "probe_id": 173,
+    "feature_id": 7717,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 43.977535247802734
+  },
+  {
+    "probe_id": 174,
+    "feature_id": 7717,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 175.91014099121094
+  },
+  {
+    "probe_id": 175,
+    "feature_id": 7769,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.321951866149902
+  },
+  {
+    "probe_id": 176,
+    "feature_id": 7769,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 42.630245208740234
+  },
+  {
+    "probe_id": 177,
+    "feature_id": 7769,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 170.52098083496094
+  },
+  {
+    "probe_id": 178,
+    "feature_id": 8119,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.732576370239258
+  },
+  {
+    "probe_id": 179,
+    "feature_id": 8119,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 82.34424591064453
+  },
+  {
+    "probe_id": 180,
+    "feature_id": 8119,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 329.3769836425781
+  },
+  {
+    "probe_id": 181,
+    "feature_id": 8144,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.905973434448242
+  },
+  {
+    "probe_id": 182,
+    "feature_id": 8144,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 41.29911422729492
+  },
+  {
+    "probe_id": 183,
+    "feature_id": 8144,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 165.1964569091797
+  },
+  {
+    "probe_id": 184,
+    "feature_id": 8277,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.900768280029297
+  },
+  {
+    "probe_id": 185,
+    "feature_id": 8277,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 34.8824577331543
+  },
+  {
+    "probe_id": 186,
+    "feature_id": 8277,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 139.5298309326172
+  },
+  {
+    "probe_id": 187,
+    "feature_id": 8351,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.45293140411377
+  },
+  {
+    "probe_id": 188,
+    "feature_id": 8351,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 27.049379348754883
+  },
+  {
+    "probe_id": 189,
+    "feature_id": 8351,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 108.19751739501953
+  },
+  {
+    "probe_id": 190,
+    "feature_id": 8564,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 5.772834777832031
+  },
+  {
+    "probe_id": 191,
+    "feature_id": 8564,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 18.473072052001953
+  },
+  {
+    "probe_id": 192,
+    "feature_id": 8564,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 73.89228820800781
+  },
+  {
+    "probe_id": 193,
+    "feature_id": 8882,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 16.61433982849121
+  },
+  {
+    "probe_id": 194,
+    "feature_id": 8882,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 53.16588592529297
+  },
+  {
+    "probe_id": 195,
+    "feature_id": 8882,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 212.66354370117188
+  },
+  {
+    "probe_id": 196,
+    "feature_id": 8916,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.953676223754883
+  },
+  {
+    "probe_id": 197,
+    "feature_id": 8916,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.451763153076172
+  },
+  {
+    "probe_id": 198,
+    "feature_id": 8916,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 101.80705261230469
+  },
+  {
+    "probe_id": 199,
+    "feature_id": 9034,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.535314559936523
+  },
+  {
+    "probe_id": 200,
+    "feature_id": 9034,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 46.51300811767578
+  },
+  {
+    "probe_id": 201,
+    "feature_id": 9034,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 186.05203247070312
+  },
+  {
+    "probe_id": 202,
+    "feature_id": 9095,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 18.175012588500977
+  },
+  {
+    "probe_id": 203,
+    "feature_id": 9095,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 58.160037994384766
+  },
+  {
+    "probe_id": 204,
+    "feature_id": 9095,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 232.64015197753906
+  },
+  {
+    "probe_id": 205,
+    "feature_id": 9221,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.575357437133789
+  },
+  {
+    "probe_id": 206,
+    "feature_id": 9221,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.24114418029785
+  },
+  {
+    "probe_id": 207,
+    "feature_id": 9221,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 96.9645767211914
+  },
+  {
+    "probe_id": 208,
+    "feature_id": 9259,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.232710838317871
+  },
+  {
+    "probe_id": 209,
+    "feature_id": 9259,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 32.74467468261719
+  },
+  {
+    "probe_id": 210,
+    "feature_id": 9259,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 130.97869873046875
+  },
+  {
+    "probe_id": 211,
+    "feature_id": 9311,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.406510353088379
+  },
+  {
+    "probe_id": 212,
+    "feature_id": 9311,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 46.100833892822266
+  },
+  {
+    "probe_id": 213,
+    "feature_id": 9311,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 184.40333557128906
+  },
+  {
+    "probe_id": 214,
+    "feature_id": 10290,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.6917724609375
+  },
+  {
+    "probe_id": 215,
+    "feature_id": 10290,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 34.21367263793945
+  },
+  {
+    "probe_id": 216,
+    "feature_id": 10290,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 136.8546905517578
+  },
+  {
+    "probe_id": 217,
+    "feature_id": 10293,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.168718338012695
+  },
+  {
+    "probe_id": 218,
+    "feature_id": 10293,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 22.939899444580078
+  },
+  {
+    "probe_id": 219,
+    "feature_id": 10293,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 91.75959777832031
+  },
+  {
+    "probe_id": 220,
+    "feature_id": 10414,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.725980758666992
+  },
+  {
+    "probe_id": 221,
+    "feature_id": 10414,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 37.52313995361328
+  },
+  {
+    "probe_id": 222,
+    "feature_id": 10414,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 150.09255981445312
+  },
+  {
+    "probe_id": 223,
+    "feature_id": 10483,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 17.129230499267578
+  },
+  {
+    "probe_id": 224,
+    "feature_id": 10483,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 54.81353759765625
+  },
+  {
+    "probe_id": 225,
+    "feature_id": 10483,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 219.254150390625
+  },
+  {
+    "probe_id": 226,
+    "feature_id": 10642,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 16.815811157226562
+  },
+  {
+    "probe_id": 227,
+    "feature_id": 10642,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 53.81059265136719
+  },
+  {
+    "probe_id": 228,
+    "feature_id": 10642,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 215.24237060546875
+  },
+  {
+    "probe_id": 229,
+    "feature_id": 10718,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.952282905578613
+  },
+  {
+    "probe_id": 230,
+    "feature_id": 10718,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 31.847305297851562
+  },
+  {
+    "probe_id": 231,
+    "feature_id": 10718,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 127.38922119140625
+  },
+  {
+    "probe_id": 232,
+    "feature_id": 10879,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.464920043945312
+  },
+  {
+    "probe_id": 233,
+    "feature_id": 10879,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 27.087745666503906
+  },
+  {
+    "probe_id": 234,
+    "feature_id": 10879,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 108.35098266601562
+  },
+  {
+    "probe_id": 235,
+    "feature_id": 10942,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.124857902526855
+  },
+  {
+    "probe_id": 236,
+    "feature_id": 10942,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 41.99954605102539
+  },
+  {
+    "probe_id": 237,
+    "feature_id": 10942,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 167.99818420410156
+  },
+  {
+    "probe_id": 238,
+    "feature_id": 10947,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.650822162628174
+  },
+  {
+    "probe_id": 239,
+    "feature_id": 10947,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.282630920410156
+  },
+  {
+    "probe_id": 240,
+    "feature_id": 10947,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 85.13052368164062
+  },
+  {
+    "probe_id": 241,
+    "feature_id": 11053,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.545724868774414
+  },
+  {
+    "probe_id": 242,
+    "feature_id": 11053,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 27.34632110595703
+  },
+  {
+    "probe_id": 243,
+    "feature_id": 11053,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 109.38528442382812
+  },
+  {
+    "probe_id": 244,
+    "feature_id": 11144,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.052427291870117
+  },
+  {
+    "probe_id": 245,
+    "feature_id": 11144,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 22.567768096923828
+  },
+  {
+    "probe_id": 246,
+    "feature_id": 11144,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 90.27107238769531
+  },
+  {
+    "probe_id": 247,
+    "feature_id": 11161,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 17.8643741607666
+  },
+  {
+    "probe_id": 248,
+    "feature_id": 11161,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 57.16599655151367
+  },
+  {
+    "probe_id": 249,
+    "feature_id": 11161,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 228.6639862060547
+  },
+  {
+    "probe_id": 250,
+    "feature_id": 11210,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.414121627807617
+  },
+  {
+    "probe_id": 251,
+    "feature_id": 11210,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 36.52518844604492
+  },
+  {
+    "probe_id": 252,
+    "feature_id": 11210,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 146.1007537841797
+  },
+  {
+    "probe_id": 253,
+    "feature_id": 11341,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.352691650390625
+  },
+  {
+    "probe_id": 254,
+    "feature_id": 11341,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 23.528614044189453
+  },
+  {
+    "probe_id": 255,
+    "feature_id": 11341,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 94.11445617675781
+  },
+  {
+    "probe_id": 256,
+    "feature_id": 11417,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.50874137878418
+  },
+  {
+    "probe_id": 257,
+    "feature_id": 11417,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 30.4279727935791
+  },
+  {
+    "probe_id": 258,
+    "feature_id": 11417,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 121.7118911743164
+  },
+  {
+    "probe_id": 259,
+    "feature_id": 11443,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.0576810836792
+  },
+  {
+    "probe_id": 260,
+    "feature_id": 11443,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.784578323364258
+  },
+  {
+    "probe_id": 261,
+    "feature_id": 11443,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 103.13831329345703
+  },
+  {
+    "probe_id": 262,
+    "feature_id": 11540,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.823078155517578
+  },
+  {
+    "probe_id": 263,
+    "feature_id": 11540,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 31.43385124206543
+  },
+  {
+    "probe_id": 264,
+    "feature_id": 11540,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 125.73540496826172
+  },
+  {
+    "probe_id": 265,
+    "feature_id": 11674,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.857468128204346
+  },
+  {
+    "probe_id": 266,
+    "feature_id": 11674,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.143898010253906
+  },
+  {
+    "probe_id": 267,
+    "feature_id": 11674,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 100.57559204101562
+  },
+  {
+    "probe_id": 268,
+    "feature_id": 11969,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.157161712646484
+  },
+  {
+    "probe_id": 269,
+    "feature_id": 11969,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 45.30291748046875
+  },
+  {
+    "probe_id": 270,
+    "feature_id": 11969,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 181.211669921875
+  },
+  {
+    "probe_id": 271,
+    "feature_id": 12128,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.528114318847656
+  },
+  {
+    "probe_id": 272,
+    "feature_id": 12128,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.0899658203125
+  },
+  {
+    "probe_id": 273,
+    "feature_id": 12128,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 160.35986328125
+  },
+  {
+    "probe_id": 274,
+    "feature_id": 12153,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.778922080993652
+  },
+  {
+    "probe_id": 275,
+    "feature_id": 12153,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 34.492549896240234
+  },
+  {
+    "probe_id": 276,
+    "feature_id": 12153,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 137.97019958496094
+  },
+  {
+    "probe_id": 277,
+    "feature_id": 12355,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.865861892700195
+  },
+  {
+    "probe_id": 278,
+    "feature_id": 12355,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 37.97075653076172
+  },
+  {
+    "probe_id": 279,
+    "feature_id": 12355,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 151.88302612304688
+  },
+  {
+    "probe_id": 280,
+    "feature_id": 12383,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.35744047164917
+  },
+  {
+    "probe_id": 281,
+    "feature_id": 12383,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.343809127807617
+  },
+  {
+    "probe_id": 282,
+    "feature_id": 12383,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 81.37523651123047
+  },
+  {
+    "probe_id": 283,
+    "feature_id": 12391,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.517072677612305
+  },
+  {
+    "probe_id": 284,
+    "feature_id": 12391,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.854633331298828
+  },
+  {
+    "probe_id": 285,
+    "feature_id": 12391,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 83.41853332519531
+  },
+  {
+    "probe_id": 286,
+    "feature_id": 12533,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.047967910766602
+  },
+  {
+    "probe_id": 287,
+    "feature_id": 12533,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 44.95349884033203
+  },
+  {
+    "probe_id": 288,
+    "feature_id": 12533,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 179.81399536132812
+  },
+  {
+    "probe_id": 289,
+    "feature_id": 12550,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.46273422241211
+  },
+  {
+    "probe_id": 290,
+    "feature_id": 12550,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 39.8807487487793
+  },
+  {
+    "probe_id": 291,
+    "feature_id": 12550,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 159.5229949951172
+  },
+  {
+    "probe_id": 292,
+    "feature_id": 12582,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.34199333190918
+  },
+  {
+    "probe_id": 293,
+    "feature_id": 12582,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 42.69437789916992
+  },
+  {
+    "probe_id": 294,
+    "feature_id": 12582,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 170.7775115966797
+  },
+  {
+    "probe_id": 295,
+    "feature_id": 12692,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.254389762878418
+  },
+  {
+    "probe_id": 296,
+    "feature_id": 12692,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 26.414047241210938
+  },
+  {
+    "probe_id": 297,
+    "feature_id": 12692,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 105.65618896484375
+  },
+  {
+    "probe_id": 298,
+    "feature_id": 12724,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.408775329589844
+  },
+  {
+    "probe_id": 299,
+    "feature_id": 12724,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 20.508081436157227
+  },
+  {
+    "probe_id": 300,
+    "feature_id": 12724,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 82.0323257446289
+  },
+  {
+    "probe_id": 301,
+    "feature_id": 12769,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.29041862487793
+  },
+  {
+    "probe_id": 302,
+    "feature_id": 12769,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 39.32933807373047
+  },
+  {
+    "probe_id": 303,
+    "feature_id": 12769,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 157.31735229492188
+  },
+  {
+    "probe_id": 304,
+    "feature_id": 12778,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.718896865844727
+  },
+  {
+    "probe_id": 305,
+    "feature_id": 12778,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.700469970703125
+  },
+  {
+    "probe_id": 306,
+    "feature_id": 12778,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 98.8018798828125
+  },
+  {
+    "probe_id": 307,
+    "feature_id": 12790,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 15.00912857055664
+  },
+  {
+    "probe_id": 308,
+    "feature_id": 12790,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 48.029212951660156
+  },
+  {
+    "probe_id": 309,
+    "feature_id": 12790,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 192.11685180664062
+  },
+  {
+    "probe_id": 310,
+    "feature_id": 12875,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.49974536895752
+  },
+  {
+    "probe_id": 311,
+    "feature_id": 12875,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 46.39918518066406
+  },
+  {
+    "probe_id": 312,
+    "feature_id": 12875,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 185.59674072265625
+  },
+  {
+    "probe_id": 313,
+    "feature_id": 12991,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.134197235107422
+  },
+  {
+    "probe_id": 314,
+    "feature_id": 12991,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 22.829431533813477
+  },
+  {
+    "probe_id": 315,
+    "feature_id": 12991,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 91.3177261352539
+  },
+  {
+    "probe_id": 316,
+    "feature_id": 13037,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.489395141601562
+  },
+  {
+    "probe_id": 317,
+    "feature_id": 13037,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 27.166065216064453
+  },
+  {
+    "probe_id": 318,
+    "feature_id": 13037,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 108.66426086425781
+  },
+  {
+    "probe_id": 319,
+    "feature_id": 13156,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.677085876464844
+  },
+  {
+    "probe_id": 320,
+    "feature_id": 13156,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 21.366674423217773
+  },
+  {
+    "probe_id": 321,
+    "feature_id": 13156,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 85.4666976928711
+  },
+  {
+    "probe_id": 322,
+    "feature_id": 13167,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.524959564208984
+  },
+  {
+    "probe_id": 323,
+    "feature_id": 13167,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 30.47987174987793
+  },
+  {
+    "probe_id": 324,
+    "feature_id": 13167,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 121.91948699951172
+  },
+  {
+    "probe_id": 325,
+    "feature_id": 13397,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.29814338684082
+  },
+  {
+    "probe_id": 326,
+    "feature_id": 13397,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 36.15406036376953
+  },
+  {
+    "probe_id": 327,
+    "feature_id": 13397,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 144.61624145507812
+  },
+  {
+    "probe_id": 328,
+    "feature_id": 13485,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.746767044067383
+  },
+  {
+    "probe_id": 329,
+    "feature_id": 13485,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 24.789653778076172
+  },
+  {
+    "probe_id": 330,
+    "feature_id": 13485,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 99.15861511230469
+  },
+  {
+    "probe_id": 331,
+    "feature_id": 13604,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.489131927490234
+  },
+  {
+    "probe_id": 332,
+    "feature_id": 13604,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 30.36522102355957
+  },
+  {
+    "probe_id": 333,
+    "feature_id": 13604,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 121.46088409423828
+  },
+  {
+    "probe_id": 334,
+    "feature_id": 13605,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 6.22639274597168
+  },
+  {
+    "probe_id": 335,
+    "feature_id": 13605,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 19.924457550048828
+  },
+  {
+    "probe_id": 336,
+    "feature_id": 13605,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 79.69783020019531
+  },
+  {
+    "probe_id": 337,
+    "feature_id": 13621,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.452973365783691
+  },
+  {
+    "probe_id": 338,
+    "feature_id": 13621,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 39.84951400756836
+  },
+  {
+    "probe_id": 339,
+    "feature_id": 13621,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 159.39805603027344
+  },
+  {
+    "probe_id": 340,
+    "feature_id": 13666,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.78747272491455
+  },
+  {
+    "probe_id": 341,
+    "feature_id": 13666,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 34.51991271972656
+  },
+  {
+    "probe_id": 342,
+    "feature_id": 13666,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 138.07965087890625
+  },
+  {
+    "probe_id": 343,
+    "feature_id": 13760,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.684158325195312
+  },
+  {
+    "probe_id": 344,
+    "feature_id": 13760,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.58930587768555
+  },
+  {
+    "probe_id": 345,
+    "feature_id": 13760,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 162.3572235107422
+  },
+  {
+    "probe_id": 346,
+    "feature_id": 13962,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.072508811950684
+  },
+  {
+    "probe_id": 347,
+    "feature_id": 13962,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 25.832029342651367
+  },
+  {
+    "probe_id": 348,
+    "feature_id": 13962,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 103.32811737060547
+  },
+  {
+    "probe_id": 349,
+    "feature_id": 13984,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.046114921569824
+  },
+  {
+    "probe_id": 350,
+    "feature_id": 13984,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 28.947566986083984
+  },
+  {
+    "probe_id": 351,
+    "feature_id": 13984,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 115.79026794433594
+  },
+  {
+    "probe_id": 352,
+    "feature_id": 14007,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.598469734191895
+  },
+  {
+    "probe_id": 353,
+    "feature_id": 14007,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 46.71510314941406
+  },
+  {
+    "probe_id": 354,
+    "feature_id": 14007,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 186.86041259765625
+  },
+  {
+    "probe_id": 355,
+    "feature_id": 14464,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 14.359905242919922
+  },
+  {
+    "probe_id": 356,
+    "feature_id": 14464,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 45.951698303222656
+  },
+  {
+    "probe_id": 357,
+    "feature_id": 14464,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 183.80679321289062
+  },
+  {
+    "probe_id": 358,
+    "feature_id": 14561,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 11.250078201293945
+  },
+  {
+    "probe_id": 359,
+    "feature_id": 14561,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 36.00025177001953
+  },
+  {
+    "probe_id": 360,
+    "feature_id": 14561,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 144.00100708007812
+  },
+  {
+    "probe_id": 361,
+    "feature_id": 14684,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 12.513496398925781
+  },
+  {
+    "probe_id": 362,
+    "feature_id": 14684,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 40.043190002441406
+  },
+  {
+    "probe_id": 363,
+    "feature_id": 14684,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 160.17276000976562
+  },
+  {
+    "probe_id": 364,
+    "feature_id": 14781,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 9.48424243927002
+  },
+  {
+    "probe_id": 365,
+    "feature_id": 14781,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 30.349576950073242
+  },
+  {
+    "probe_id": 366,
+    "feature_id": 14781,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 121.39830780029297
+  },
+  {
+    "probe_id": 367,
+    "feature_id": 15052,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 13.286725044250488
+  },
+  {
+    "probe_id": 368,
+    "feature_id": 15052,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 42.517520904541016
+  },
+  {
+    "probe_id": 369,
+    "feature_id": 15052,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 170.07008361816406
+  },
+  {
+    "probe_id": 370,
+    "feature_id": 15087,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.572920799255371
+  },
+  {
+    "probe_id": 371,
+    "feature_id": 15087,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 27.433345794677734
+  },
+  {
+    "probe_id": 372,
+    "feature_id": 15087,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 109.73338317871094
+  },
+  {
+    "probe_id": 373,
+    "feature_id": 15361,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.804441452026367
+  },
+  {
+    "probe_id": 374,
+    "feature_id": 15361,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 28.174213409423828
+  },
+  {
+    "probe_id": 375,
+    "feature_id": 15361,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 112.69685363769531
+  },
+  {
+    "probe_id": 376,
+    "feature_id": 15789,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 10.321386337280273
+  },
+  {
+    "probe_id": 377,
+    "feature_id": 15789,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 33.02843475341797
+  },
+  {
+    "probe_id": 378,
+    "feature_id": 15789,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 132.11373901367188
+  },
+  {
+    "probe_id": 379,
+    "feature_id": 15824,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 7.079586029052734
+  },
+  {
+    "probe_id": 380,
+    "feature_id": 15824,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 22.654674530029297
+  },
+  {
+    "probe_id": 381,
+    "feature_id": 15824,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 90.61869812011719
+  },
+  {
+    "probe_id": 382,
+    "feature_id": 15871,
+    "scale_multiplier": 1.25,
+    "amplitude_mode": "self_activation",
+    "amplitude": 8.248208045959473
+  },
+  {
+    "probe_id": 383,
+    "feature_id": 15871,
+    "scale_multiplier": 4.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 26.39426612854004
+  },
+  {
+    "probe_id": 384,
+    "feature_id": 15871,
+    "scale_multiplier": 16.0,
+    "amplitude_mode": "self_activation",
+    "amplitude": 105.57706451416016
+  }
+]

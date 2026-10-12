@@ -1,0 +1,778 @@
+[
+  {
+    "probe_id": 0,
+    "status": "fixed_point_candidate",
+    "final_step": 5,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 1,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 2,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 3,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 4,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 5,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 6,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 7,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 8,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 9,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 10,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 11,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 12,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 13,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 14,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 15,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 16,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 17,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 18,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 19,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 20,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 21,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 22,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 23,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 24,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 25,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 26,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 27,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 28,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 29,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 30,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 31,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 32,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 33,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 34,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 35,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 36,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 37,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 38,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 39,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 40,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 41,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 42,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 43,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 44,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 45,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 46,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 47,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 48,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 49,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 50,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 51,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 52,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 53,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 54,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 55,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 56,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 57,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 58,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 59,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 60,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 61,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 62,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 63,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 64,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 65,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 66,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 67,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 68,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 69,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 70,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 71,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 72,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 73,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 74,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 75,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 76,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 77,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 78,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 79,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 80,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 81,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 82,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 83,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 84,
+    "status": "fixed_point_candidate",
+    "final_step": 8,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 85,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 86,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 87,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 88,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 89,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 90,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 91,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 92,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 93,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 94,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 95,
+    "status": "fixed_point_candidate",
+    "final_step": 6,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 96,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  }
+]
