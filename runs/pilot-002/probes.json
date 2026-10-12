@@ -1,0 +1,584 @@
+[
+  {
+    "probe_id": 0,
+    "feature_id": null,
+    "threshold_multiplier": 0,
+    "amplitude": 0
+  },
+  {
+    "probe_id": 1,
+    "feature_id": 1405,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.870617389678955
+  },
+  {
+    "probe_id": 2,
+    "feature_id": 1405,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.19298791885376
+  },
+  {
+    "probe_id": 3,
+    "feature_id": 1405,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.38597583770752
+  },
+  {
+    "probe_id": 4,
+    "feature_id": 1459,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.9056782722473145
+  },
+  {
+    "probe_id": 5,
+    "feature_id": 1459,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.249085426330566
+  },
+  {
+    "probe_id": 6,
+    "feature_id": 1459,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.498170852661133
+  },
+  {
+    "probe_id": 7,
+    "feature_id": 1540,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.9329967498779297
+  },
+  {
+    "probe_id": 8,
+    "feature_id": 1540,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.292794704437256
+  },
+  {
+    "probe_id": 9,
+    "feature_id": 1540,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.585589408874512
+  },
+  {
+    "probe_id": 10,
+    "feature_id": 2097,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8693580627441406
+  },
+  {
+    "probe_id": 11,
+    "feature_id": 2097,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.190972805023193
+  },
+  {
+    "probe_id": 12,
+    "feature_id": 2097,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.381945610046387
+  },
+  {
+    "probe_id": 13,
+    "feature_id": 2989,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8989267349243164
+  },
+  {
+    "probe_id": 14,
+    "feature_id": 2989,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.238282680511475
+  },
+  {
+    "probe_id": 15,
+    "feature_id": 2989,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.47656536102295
+  },
+  {
+    "probe_id": 16,
+    "feature_id": 3296,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.950962781906128
+  },
+  {
+    "probe_id": 17,
+    "feature_id": 3296,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.321540355682373
+  },
+  {
+    "probe_id": 18,
+    "feature_id": 3296,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.643080711364746
+  },
+  {
+    "probe_id": 19,
+    "feature_id": 3723,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8530259132385254
+  },
+  {
+    "probe_id": 20,
+    "feature_id": 3723,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.164841651916504
+  },
+  {
+    "probe_id": 21,
+    "feature_id": 3723,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.329683303833008
+  },
+  {
+    "probe_id": 22,
+    "feature_id": 6071,
+    "threshold_multiplier": 1.25,
+    "amplitude": 4.14638090133667
+  },
+  {
+    "probe_id": 23,
+    "feature_id": 6071,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.634209632873535
+  },
+  {
+    "probe_id": 24,
+    "feature_id": 6071,
+    "threshold_multiplier": 4.0,
+    "amplitude": 13.26841926574707
+  },
+  {
+    "probe_id": 25,
+    "feature_id": 6591,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.9302239418029785
+  },
+  {
+    "probe_id": 26,
+    "feature_id": 6591,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.288358211517334
+  },
+  {
+    "probe_id": 27,
+    "feature_id": 6591,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.576716423034668
+  },
+  {
+    "probe_id": 28,
+    "feature_id": 7082,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.9282033443450928
+  },
+  {
+    "probe_id": 29,
+    "feature_id": 7082,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.285125255584717
+  },
+  {
+    "probe_id": 30,
+    "feature_id": 7082,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.570250511169434
+  },
+  {
+    "probe_id": 31,
+    "feature_id": 7178,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.9571187496185303
+  },
+  {
+    "probe_id": 32,
+    "feature_id": 7178,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.331389904022217
+  },
+  {
+    "probe_id": 33,
+    "feature_id": 7178,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.662779808044434
+  },
+  {
+    "probe_id": 34,
+    "feature_id": 7264,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8147459030151367
+  },
+  {
+    "probe_id": 35,
+    "feature_id": 7264,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.103593349456787
+  },
+  {
+    "probe_id": 36,
+    "feature_id": 7264,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.207186698913574
+  },
+  {
+    "probe_id": 37,
+    "feature_id": 7373,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.814115047454834
+  },
+  {
+    "probe_id": 38,
+    "feature_id": 7373,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.102583885192871
+  },
+  {
+    "probe_id": 39,
+    "feature_id": 7373,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.205167770385742
+  },
+  {
+    "probe_id": 40,
+    "feature_id": 7379,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8627548217773438
+  },
+  {
+    "probe_id": 41,
+    "feature_id": 7379,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.180407524108887
+  },
+  {
+    "probe_id": 42,
+    "feature_id": 7379,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.360815048217773
+  },
+  {
+    "probe_id": 43,
+    "feature_id": 8192,
+    "threshold_multiplier": 1.25,
+    "amplitude": 4.14734411239624
+  },
+  {
+    "probe_id": 44,
+    "feature_id": 8192,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.635750770568848
+  },
+  {
+    "probe_id": 45,
+    "feature_id": 8192,
+    "threshold_multiplier": 4.0,
+    "amplitude": 13.271501541137695
+  },
+  {
+    "probe_id": 46,
+    "feature_id": 8401,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.843447208404541
+  },
+  {
+    "probe_id": 47,
+    "feature_id": 8401,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.149515628814697
+  },
+  {
+    "probe_id": 48,
+    "feature_id": 8401,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.299031257629395
+  },
+  {
+    "probe_id": 49,
+    "feature_id": 8614,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8509926795959473
+  },
+  {
+    "probe_id": 50,
+    "feature_id": 8614,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.161588191986084
+  },
+  {
+    "probe_id": 51,
+    "feature_id": 8614,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.323176383972168
+  },
+  {
+    "probe_id": 52,
+    "feature_id": 8934,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.942373752593994
+  },
+  {
+    "probe_id": 53,
+    "feature_id": 8934,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.307797908782959
+  },
+  {
+    "probe_id": 54,
+    "feature_id": 8934,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.615595817565918
+  },
+  {
+    "probe_id": 55,
+    "feature_id": 10545,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.892934560775757
+  },
+  {
+    "probe_id": 56,
+    "feature_id": 10545,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.228695392608643
+  },
+  {
+    "probe_id": 57,
+    "feature_id": 10545,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.457390785217285
+  },
+  {
+    "probe_id": 58,
+    "feature_id": 10705,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8321471214294434
+  },
+  {
+    "probe_id": 59,
+    "feature_id": 10705,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.131435394287109
+  },
+  {
+    "probe_id": 60,
+    "feature_id": 10705,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.262870788574219
+  },
+  {
+    "probe_id": 61,
+    "feature_id": 11408,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.7196083068847656
+  },
+  {
+    "probe_id": 62,
+    "feature_id": 11408,
+    "threshold_multiplier": 2.0,
+    "amplitude": 5.951373100280762
+  },
+  {
+    "probe_id": 63,
+    "feature_id": 11408,
+    "threshold_multiplier": 4.0,
+    "amplitude": 11.902746200561523
+  },
+  {
+    "probe_id": 64,
+    "feature_id": 11742,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.820568323135376
+  },
+  {
+    "probe_id": 65,
+    "feature_id": 11742,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.112909317016602
+  },
+  {
+    "probe_id": 66,
+    "feature_id": 11742,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.225818634033203
+  },
+  {
+    "probe_id": 67,
+    "feature_id": 12040,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.7639214992523193
+  },
+  {
+    "probe_id": 68,
+    "feature_id": 12040,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.022274494171143
+  },
+  {
+    "probe_id": 69,
+    "feature_id": 12040,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.044548988342285
+  },
+  {
+    "probe_id": 70,
+    "feature_id": 12456,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.794732093811035
+  },
+  {
+    "probe_id": 71,
+    "feature_id": 12456,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.071571350097656
+  },
+  {
+    "probe_id": 72,
+    "feature_id": 12456,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.143142700195312
+  },
+  {
+    "probe_id": 73,
+    "feature_id": 12657,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8568272590637207
+  },
+  {
+    "probe_id": 74,
+    "feature_id": 12657,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.170923709869385
+  },
+  {
+    "probe_id": 75,
+    "feature_id": 12657,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.34184741973877
+  },
+  {
+    "probe_id": 76,
+    "feature_id": 12799,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8319945335388184
+  },
+  {
+    "probe_id": 77,
+    "feature_id": 12799,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.131191253662109
+  },
+  {
+    "probe_id": 78,
+    "feature_id": 12799,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.262382507324219
+  },
+  {
+    "probe_id": 79,
+    "feature_id": 12866,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.816129684448242
+  },
+  {
+    "probe_id": 80,
+    "feature_id": 12866,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.105807304382324
+  },
+  {
+    "probe_id": 81,
+    "feature_id": 12866,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.211614608764648
+  },
+  {
+    "probe_id": 82,
+    "feature_id": 13476,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8537895679473877
+  },
+  {
+    "probe_id": 83,
+    "feature_id": 13476,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.16606330871582
+  },
+  {
+    "probe_id": 84,
+    "feature_id": 13476,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.33212661743164
+  },
+  {
+    "probe_id": 85,
+    "feature_id": 13747,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8975706100463867
+  },
+  {
+    "probe_id": 86,
+    "feature_id": 13747,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.23611307144165
+  },
+  {
+    "probe_id": 87,
+    "feature_id": 13747,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.4722261428833
+  },
+  {
+    "probe_id": 88,
+    "feature_id": 14044,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.735179901123047
+  },
+  {
+    "probe_id": 89,
+    "feature_id": 14044,
+    "threshold_multiplier": 2.0,
+    "amplitude": 5.976287841796875
+  },
+  {
+    "probe_id": 90,
+    "feature_id": 14044,
+    "threshold_multiplier": 4.0,
+    "amplitude": 11.95257568359375
+  },
+  {
+    "probe_id": 91,
+    "feature_id": 15176,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.8235602378845215
+  },
+  {
+    "probe_id": 92,
+    "feature_id": 15176,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.117696285247803
+  },
+  {
+    "probe_id": 93,
+    "feature_id": 15176,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.235392570495605
+  },
+  {
+    "probe_id": 94,
+    "feature_id": 15965,
+    "threshold_multiplier": 1.25,
+    "amplitude": 3.7993428707122803
+  },
+  {
+    "probe_id": 95,
+    "feature_id": 15965,
+    "threshold_multiplier": 2.0,
+    "amplitude": 6.078948497772217
+  },
+  {
+    "probe_id": 96,
+    "feature_id": 15965,
+    "threshold_multiplier": 4.0,
+    "amplitude": 12.157896995544434
+  }
+]

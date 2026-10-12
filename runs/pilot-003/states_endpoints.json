@@ -1,0 +1,3082 @@
+[
+  {
+    "probe_id": 0,
+    "status": "fixed_point_candidate",
+    "final_step": 5,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 1,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 2,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 3,
+    "status": "growth_limit",
+    "final_step": 28,
+    "l0": 4802,
+    "norm": 283807072.0,
+    "fixed_residual": 5118210560.0
+  },
+  {
+    "probe_id": 4,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 5,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 6,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 5233,
+    "norm": 989194048.0,
+    "fixed_residual": 20306155520.0
+  },
+  {
+    "probe_id": 7,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 8,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 9,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 3714,
+    "norm": 166458368.0,
+    "fixed_residual": 2358660096.0
+  },
+  {
+    "probe_id": 10,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 11,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 2732,
+    "norm": 129506224.0,
+    "fixed_residual": 1772409472.0
+  },
+  {
+    "probe_id": 12,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2796,
+    "norm": 1658009984.0,
+    "fixed_residual": 24456536064.0
+  },
+  {
+    "probe_id": 13,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 14,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 15,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4286,
+    "norm": 322035712.0,
+    "fixed_residual": 5248712704.0
+  },
+  {
+    "probe_id": 16,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 17,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 18,
+    "status": "fixed_point_candidate",
+    "final_step": 26,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 19,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 20,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 21,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 3940,
+    "norm": 838391360.0,
+    "fixed_residual": 12077878272.0
+  },
+  {
+    "probe_id": 22,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 23,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 24,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2893,
+    "norm": 212389168.0,
+    "fixed_residual": 2890627072.0
+  },
+  {
+    "probe_id": 25,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 26,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 27,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4492,
+    "norm": 2416296704.0,
+    "fixed_residual": 43865640960.0
+  },
+  {
+    "probe_id": 28,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 29,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 30,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4798,
+    "norm": 3655358976.0,
+    "fixed_residual": 68925923328.0
+  },
+  {
+    "probe_id": 31,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 32,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 33,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 5157,
+    "norm": 386754080.0,
+    "fixed_residual": 8015500800.0
+  },
+  {
+    "probe_id": 34,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 35,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 36,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 4928,
+    "norm": 670277120.0,
+    "fixed_residual": 13236349952.0
+  },
+  {
+    "probe_id": 37,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 38,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 39,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4583,
+    "norm": 573553728.0,
+    "fixed_residual": 10513448960.0
+  },
+  {
+    "probe_id": 40,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 41,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 42,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4735,
+    "norm": 476401632.0,
+    "fixed_residual": 9315545088.0
+  },
+  {
+    "probe_id": 43,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 44,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 45,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 4927,
+    "norm": 457006176.0,
+    "fixed_residual": 9278659584.0
+  },
+  {
+    "probe_id": 46,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 47,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 48,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2911,
+    "norm": 740412544.0,
+    "fixed_residual": 9669634048.0
+  },
+  {
+    "probe_id": 49,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 50,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 51,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 2906,
+    "norm": 421685824.0,
+    "fixed_residual": 5251314688.0
+  },
+  {
+    "probe_id": 52,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 53,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 54,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 4978,
+    "norm": 883247936.0,
+    "fixed_residual": 17901164544.0
+  },
+  {
+    "probe_id": 55,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 56,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 57,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4569,
+    "norm": 1450236800.0,
+    "fixed_residual": 27521638400.0
+  },
+  {
+    "probe_id": 58,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 59,
+    "status": "growth_limit",
+    "final_step": 25,
+    "l0": 4701,
+    "norm": 45654128.0,
+    "fixed_residual": 877489472.0
+  },
+  {
+    "probe_id": 60,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 4751,
+    "norm": 929117184.0,
+    "fixed_residual": 18095130624.0
+  },
+  {
+    "probe_id": 61,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 62,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 63,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 4426,
+    "norm": 1092979584.0,
+    "fixed_residual": 20080951296.0
+  },
+  {
+    "probe_id": 64,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 65,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 66,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 2622,
+    "norm": 478573376.0,
+    "fixed_residual": 6506999808.0
+  },
+  {
+    "probe_id": 67,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 68,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 69,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 4496,
+    "norm": 115868072.0,
+    "fixed_residual": 2131579648.0
+  },
+  {
+    "probe_id": 70,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 71,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 72,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 3801,
+    "norm": 2355227136.0,
+    "fixed_residual": 32386351104.0
+  },
+  {
+    "probe_id": 73,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 74,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 75,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 3100,
+    "norm": 456246592.0,
+    "fixed_residual": 5829144064.0
+  },
+  {
+    "probe_id": 76,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 77,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 78,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4559,
+    "norm": 1129148032.0,
+    "fixed_residual": 20622301184.0
+  },
+  {
+    "probe_id": 79,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 80,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 81,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2828,
+    "norm": 268475712.0,
+    "fixed_residual": 3647552768.0
+  },
+  {
+    "probe_id": 82,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 83,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 84,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 4684,
+    "norm": 1014089024.0,
+    "fixed_residual": 19278766080.0
+  },
+  {
+    "probe_id": 85,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 86,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 87,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4609,
+    "norm": 446036544.0,
+    "fixed_residual": 8277287424.0
+  },
+  {
+    "probe_id": 88,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 89,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 90,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 5111,
+    "norm": 546219776.0,
+    "fixed_residual": 11281513472.0
+  },
+  {
+    "probe_id": 91,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 92,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 93,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4772,
+    "norm": 468774304.0,
+    "fixed_residual": 9268007936.0
+  },
+  {
+    "probe_id": 94,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 95,
+    "status": "fixed_point_candidate",
+    "final_step": 13,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 96,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2973,
+    "norm": 982458240.0,
+    "fixed_residual": 13151117312.0
+  },
+  {
+    "probe_id": 97,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 98,
+    "status": "fixed_point_candidate",
+    "final_step": 15,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 99,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2813,
+    "norm": 1216964864.0,
+    "fixed_residual": 17697669120.0
+  },
+  {
+    "probe_id": 100,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 101,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 102,
+    "status": "growth_limit",
+    "final_step": 19,
+    "l0": 5309,
+    "norm": 184941376.0,
+    "fixed_residual": 3446796800.0
+  },
+  {
+    "probe_id": 103,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 104,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 105,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 5400,
+    "norm": 151913712.0,
+    "fixed_residual": 3140230144.0
+  },
+  {
+    "probe_id": 106,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 107,
+    "status": "fixed_point_candidate",
+    "final_step": 16,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 108,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2740,
+    "norm": 340744416.0,
+    "fixed_residual": 4361879552.0
+  },
+  {
+    "probe_id": 109,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 110,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 111,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 5091,
+    "norm": 1497134976.0,
+    "fixed_residual": 28459255808.0
+  },
+  {
+    "probe_id": 112,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 113,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 114,
+    "status": "fixed_point_candidate",
+    "final_step": 20,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 115,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 116,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 117,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2751,
+    "norm": 234470576.0,
+    "fixed_residual": 3313573888.0
+  },
+  {
+    "probe_id": 118,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 119,
+    "status": "fixed_point_candidate",
+    "final_step": 22,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 120,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4854,
+    "norm": 2152559104.0,
+    "fixed_residual": 41799303168.0
+  },
+  {
+    "probe_id": 121,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 122,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 3189,
+    "norm": 104265504.0,
+    "fixed_residual": 1418006656.0
+  },
+  {
+    "probe_id": 123,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2949,
+    "norm": 2589775104.0,
+    "fixed_residual": 36495224832.0
+  },
+  {
+    "probe_id": 124,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 125,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 126,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 2573,
+    "norm": 128717032.0,
+    "fixed_residual": 1624476288.0
+  },
+  {
+    "probe_id": 127,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 128,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 129,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4697,
+    "norm": 805770816.0,
+    "fixed_residual": 14877787136.0
+  },
+  {
+    "probe_id": 130,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 131,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 132,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 3634,
+    "norm": 2308588800.0,
+    "fixed_residual": 32618551296.0
+  },
+  {
+    "probe_id": 133,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 134,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 135,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4491,
+    "norm": 440603008.0,
+    "fixed_residual": 8386392064.0
+  },
+  {
+    "probe_id": 136,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 137,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 3868,
+    "norm": 196646160.0,
+    "fixed_residual": 2356234240.0
+  },
+  {
+    "probe_id": 138,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 3040,
+    "norm": 934176512.0,
+    "fixed_residual": 12656756736.0
+  },
+  {
+    "probe_id": 139,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 140,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 141,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2752,
+    "norm": 548095552.0,
+    "fixed_residual": 7718228992.0
+  },
+  {
+    "probe_id": 142,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 143,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 144,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 5352,
+    "norm": 154524624.0,
+    "fixed_residual": 2933764864.0
+  },
+  {
+    "probe_id": 145,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 146,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 147,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 5537,
+    "norm": 721285376.0,
+    "fixed_residual": 15226649600.0
+  },
+  {
+    "probe_id": 148,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 149,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 150,
+    "status": "fixed_point_candidate",
+    "final_step": 24,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 151,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 152,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 153,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 2764,
+    "norm": 439101632.0,
+    "fixed_residual": 5892372992.0
+  },
+  {
+    "probe_id": 154,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 155,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 156,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 4478,
+    "norm": 435141312.0,
+    "fixed_residual": 7505682944.0
+  },
+  {
+    "probe_id": 157,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 158,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 159,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 2860,
+    "norm": 316433504.0,
+    "fixed_residual": 2901085696.0
+  },
+  {
+    "probe_id": 160,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 161,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 162,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2781,
+    "norm": 951911552.0,
+    "fixed_residual": 13910247424.0
+  },
+  {
+    "probe_id": 163,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 164,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 165,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 2828,
+    "norm": 377084768.0,
+    "fixed_residual": 5334175744.0
+  },
+  {
+    "probe_id": 166,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 167,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4845,
+    "norm": 182330320.0,
+    "fixed_residual": 3491892224.0
+  },
+  {
+    "probe_id": 168,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 4860,
+    "norm": 400646560.0,
+    "fixed_residual": 7890023936.0
+  },
+  {
+    "probe_id": 169,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 170,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 171,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 3132,
+    "norm": 1136827392.0,
+    "fixed_residual": 15436424192.0
+  },
+  {
+    "probe_id": 172,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 173,
+    "status": "fixed_point_candidate",
+    "final_step": 16,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 174,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4459,
+    "norm": 251215632.0,
+    "fixed_residual": 4562821120.0
+  },
+  {
+    "probe_id": 175,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 176,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 177,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4327,
+    "norm": 743809920.0,
+    "fixed_residual": 12771153920.0
+  },
+  {
+    "probe_id": 178,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 179,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2962,
+    "norm": 666886976.0,
+    "fixed_residual": 7895303168.0
+  },
+  {
+    "probe_id": 180,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 3647,
+    "norm": 2559085568.0,
+    "fixed_residual": 31651461120.0
+  },
+  {
+    "probe_id": 181,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 182,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 5215,
+    "norm": 100024560.0,
+    "fixed_residual": 1964272384.0
+  },
+  {
+    "probe_id": 183,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4973,
+    "norm": 376035072.0,
+    "fixed_residual": 7299981824.0
+  },
+  {
+    "probe_id": 184,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 185,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 186,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4680,
+    "norm": 590871872.0,
+    "fixed_residual": 11455815680.0
+  },
+  {
+    "probe_id": 187,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 188,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 189,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4360,
+    "norm": 298646464.0,
+    "fixed_residual": 5373432320.0
+  },
+  {
+    "probe_id": 190,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 191,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 192,
+    "status": "growth_limit",
+    "final_step": 18,
+    "l0": 4385,
+    "norm": 84262720.0,
+    "fixed_residual": 1594472320.0
+  },
+  {
+    "probe_id": 193,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 194,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 3081,
+    "norm": 381688288.0,
+    "fixed_residual": 5325398528.0
+  },
+  {
+    "probe_id": 195,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2804,
+    "norm": 1203007232.0,
+    "fixed_residual": 16303027200.0
+  },
+  {
+    "probe_id": 196,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 197,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 198,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 2836,
+    "norm": 621552512.0,
+    "fixed_residual": 8475857408.0
+  },
+  {
+    "probe_id": 199,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 200,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 201,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4968,
+    "norm": 2743745536.0,
+    "fixed_residual": 55245021184.0
+  },
+  {
+    "probe_id": 202,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 203,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 204,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4704,
+    "norm": 530139296.0,
+    "fixed_residual": 10404348928.0
+  },
+  {
+    "probe_id": 205,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 206,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 207,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 2791,
+    "norm": 236831520.0,
+    "fixed_residual": 3358251264.0
+  },
+  {
+    "probe_id": 208,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 209,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 210,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2885,
+    "norm": 228833600.0,
+    "fixed_residual": 3047092992.0
+  },
+  {
+    "probe_id": 211,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 212,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 213,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2946,
+    "norm": 806237696.0,
+    "fixed_residual": 11137481728.0
+  },
+  {
+    "probe_id": 214,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 215,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 216,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 4910,
+    "norm": 2012202496.0,
+    "fixed_residual": 41857802240.0
+  },
+  {
+    "probe_id": 217,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 218,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 219,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 2620,
+    "norm": 664064192.0,
+    "fixed_residual": 9285260288.0
+  },
+  {
+    "probe_id": 220,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 221,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 222,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2564,
+    "norm": 461862432.0,
+    "fixed_residual": 4137054464.0
+  },
+  {
+    "probe_id": 223,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 224,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4493,
+    "norm": 86797376.0,
+    "fixed_residual": 1343982592.0
+  },
+  {
+    "probe_id": 225,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2795,
+    "norm": 1536248960.0,
+    "fixed_residual": 20945088512.0
+  },
+  {
+    "probe_id": 226,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 227,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 228,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 5384,
+    "norm": 2724442112.0,
+    "fixed_residual": 56766087168.0
+  },
+  {
+    "probe_id": 229,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 230,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 231,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2506,
+    "norm": 1388377984.0,
+    "fixed_residual": 16611552256.0
+  },
+  {
+    "probe_id": 232,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 233,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 234,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 3257,
+    "norm": 765907584.0,
+    "fixed_residual": 11240611840.0
+  },
+  {
+    "probe_id": 235,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 236,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 237,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2809,
+    "norm": 642370752.0,
+    "fixed_residual": 9342919680.0
+  },
+  {
+    "probe_id": 238,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 239,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 240,
+    "status": "growth_limit",
+    "final_step": 22,
+    "l0": 3884,
+    "norm": 484017664.0,
+    "fixed_residual": 7040411136.0
+  },
+  {
+    "probe_id": 241,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 242,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 243,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 4755,
+    "norm": 2107464576.0,
+    "fixed_residual": 41488330752.0
+  },
+  {
+    "probe_id": 244,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 245,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 246,
+    "status": "growth_limit",
+    "final_step": 19,
+    "l0": 3849,
+    "norm": 1239981824.0,
+    "fixed_residual": 17102449664.0
+  },
+  {
+    "probe_id": 247,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 248,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 249,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 5164,
+    "norm": 351215616.0,
+    "fixed_residual": 7192894976.0
+  },
+  {
+    "probe_id": 250,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 251,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 252,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4645,
+    "norm": 1207715456.0,
+    "fixed_residual": 23148240896.0
+  },
+  {
+    "probe_id": 253,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 254,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 255,
+    "status": "fixed_point_candidate",
+    "final_step": 27,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 256,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 257,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 258,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 2397,
+    "norm": 1135670784.0,
+    "fixed_residual": 12690615296.0
+  },
+  {
+    "probe_id": 259,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 260,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 261,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 4164,
+    "norm": 1208684800.0,
+    "fixed_residual": 18548692992.0
+  },
+  {
+    "probe_id": 262,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 263,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 264,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2846,
+    "norm": 500200896.0,
+    "fixed_residual": 6847391744.0
+  },
+  {
+    "probe_id": 265,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 266,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 267,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 3404,
+    "norm": 157300080.0,
+    "fixed_residual": 1926372608.0
+  },
+  {
+    "probe_id": 268,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 269,
+    "status": "fixed_point_candidate",
+    "final_step": 15,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 270,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2940,
+    "norm": 1306755328.0,
+    "fixed_residual": 18830471168.0
+  },
+  {
+    "probe_id": 271,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 272,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 273,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 2703,
+    "norm": 1508876544.0,
+    "fixed_residual": 21120301056.0
+  },
+  {
+    "probe_id": 274,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 275,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 276,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 5054,
+    "norm": 749286400.0,
+    "fixed_residual": 15427450880.0
+  },
+  {
+    "probe_id": 277,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 278,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 279,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4827,
+    "norm": 2280317952.0,
+    "fixed_residual": 44406083584.0
+  },
+  {
+    "probe_id": 280,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 281,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 282,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 4691,
+    "norm": 667936896.0,
+    "fixed_residual": 12814021632.0
+  },
+  {
+    "probe_id": 283,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 284,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 285,
+    "status": "growth_limit",
+    "final_step": 17,
+    "l0": 4632,
+    "norm": 670321024.0,
+    "fixed_residual": 12705017856.0
+  },
+  {
+    "probe_id": 286,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 287,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 288,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4978,
+    "norm": 1953188096.0,
+    "fixed_residual": 40427954176.0
+  },
+  {
+    "probe_id": 289,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 290,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 291,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4201,
+    "norm": 657317952.0,
+    "fixed_residual": 10580039680.0
+  },
+  {
+    "probe_id": 292,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 293,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 294,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 3491,
+    "norm": 775574592.0,
+    "fixed_residual": 11035922432.0
+  },
+  {
+    "probe_id": 295,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 296,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 297,
+    "status": "fixed_point_candidate",
+    "final_step": 25,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 298,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 299,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 300,
+    "status": "growth_limit",
+    "final_step": 16,
+    "l0": 5228,
+    "norm": 832058112.0,
+    "fixed_residual": 17204609024.0
+  },
+  {
+    "probe_id": 301,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 302,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 303,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4642,
+    "norm": 1504206464.0,
+    "fixed_residual": 26051819520.0
+  },
+  {
+    "probe_id": 304,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 305,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 306,
+    "status": "fixed_point_candidate",
+    "final_step": 25,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 307,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 308,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 309,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4612,
+    "norm": 1850124928.0,
+    "fixed_residual": 35493031936.0
+  },
+  {
+    "probe_id": 310,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 311,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 2822,
+    "norm": 185504288.0,
+    "fixed_residual": 2772310016.0
+  },
+  {
+    "probe_id": 312,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2803,
+    "norm": 1934831104.0,
+    "fixed_residual": 29304240128.0
+  },
+  {
+    "probe_id": 313,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 314,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 315,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 4668,
+    "norm": 284285408.0,
+    "fixed_residual": 5472125952.0
+  },
+  {
+    "probe_id": 316,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 317,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 318,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 4696,
+    "norm": 1946244736.0,
+    "fixed_residual": 37508980736.0
+  },
+  {
+    "probe_id": 319,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 320,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 321,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 5088,
+    "norm": 1599283072.0,
+    "fixed_residual": 32108310528.0
+  },
+  {
+    "probe_id": 322,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 323,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 324,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4674,
+    "norm": 1406909696.0,
+    "fixed_residual": 27150635008.0
+  },
+  {
+    "probe_id": 325,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 326,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 327,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2967,
+    "norm": 465877344.0,
+    "fixed_residual": 6076483584.0
+  },
+  {
+    "probe_id": 328,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 329,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 330,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 4477,
+    "norm": 343667200.0,
+    "fixed_residual": 6047983616.0
+  },
+  {
+    "probe_id": 331,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 332,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 333,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 4834,
+    "norm": 222625744.0,
+    "fixed_residual": 4324847616.0
+  },
+  {
+    "probe_id": 334,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 335,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 336,
+    "status": "growth_limit",
+    "final_step": 19,
+    "l0": 2889,
+    "norm": 230868912.0,
+    "fixed_residual": 3182432512.0
+  },
+  {
+    "probe_id": 337,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 338,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 2720,
+    "norm": 50201468.0,
+    "fixed_residual": 723166848.0
+  },
+  {
+    "probe_id": 339,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 2806,
+    "norm": 1337015808.0,
+    "fixed_residual": 19727820800.0
+  },
+  {
+    "probe_id": 340,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 341,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 342,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2465,
+    "norm": 546962240.0,
+    "fixed_residual": 6043417088.0
+  },
+  {
+    "probe_id": 343,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 344,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 345,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4957,
+    "norm": 1140066560.0,
+    "fixed_residual": 19566897152.0
+  },
+  {
+    "probe_id": 346,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 347,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 348,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 2494,
+    "norm": 661598528.0,
+    "fixed_residual": 6458865152.0
+  },
+  {
+    "probe_id": 349,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 350,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 351,
+    "status": "growth_limit",
+    "final_step": 16,
+    "l0": 3134,
+    "norm": 438815008.0,
+    "fixed_residual": 5923004416.0
+  },
+  {
+    "probe_id": 352,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 353,
+    "status": "fixed_point_candidate",
+    "final_step": 14,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 354,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 2633,
+    "norm": 1230585856.0,
+    "fixed_residual": 13026444288.0
+  },
+  {
+    "probe_id": 355,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 356,
+    "status": "fixed_point_candidate",
+    "final_step": 12,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 357,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 2787,
+    "norm": 1462469760.0,
+    "fixed_residual": 18696820736.0
+  },
+  {
+    "probe_id": 358,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 359,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 360,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 2929,
+    "norm": 545714112.0,
+    "fixed_residual": 6719087104.0
+  },
+  {
+    "probe_id": 361,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 362,
+    "status": "fixed_point_candidate",
+    "final_step": 18,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 363,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 4859,
+    "norm": 310355456.0,
+    "fixed_residual": 5752173056.0
+  },
+  {
+    "probe_id": 364,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 365,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 366,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4544,
+    "norm": 1990695424.0,
+    "fixed_residual": 36549136384.0
+  },
+  {
+    "probe_id": 367,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 368,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 369,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 5076,
+    "norm": 1789435136.0,
+    "fixed_residual": 35460104192.0
+  },
+  {
+    "probe_id": 370,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 371,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 372,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 4600,
+    "norm": 202649952.0,
+    "fixed_residual": 3794724864.0
+  },
+  {
+    "probe_id": 373,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 374,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 375,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 2749,
+    "norm": 1666165376.0,
+    "fixed_residual": 24784558080.0
+  },
+  {
+    "probe_id": 376,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 377,
+    "status": "fixed_point_candidate",
+    "final_step": 10,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 378,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 2908,
+    "norm": 335367392.0,
+    "fixed_residual": 4518062080.0
+  },
+  {
+    "probe_id": 379,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 380,
+    "status": "fixed_point_candidate",
+    "final_step": 11,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 381,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 2602,
+    "norm": 858378048.0,
+    "fixed_residual": 10914443264.0
+  },
+  {
+    "probe_id": 382,
+    "status": "fixed_point_candidate",
+    "final_step": 7,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 383,
+    "status": "fixed_point_candidate",
+    "final_step": 9,
+    "l0": 0,
+    "norm": 0.0,
+    "fixed_residual": 0.0
+  },
+  {
+    "probe_id": 384,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 4516,
+    "norm": 1649973632.0,
+    "fixed_residual": 30849585152.0
+  }
+]
