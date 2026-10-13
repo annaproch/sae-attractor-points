@@ -1,0 +1,33 @@
+{
+  "schema_version": 1,
+  "status": "complete",
+  "checkpoint": "checkpoints/gemma-layer12-16k-l0-82.npz",
+  "sha256": "afae57c7fdfe6faace4b97d9fe9a184deb08bda8852a4c40b308cf6c72ed8384",
+  "seed": 42,
+  "steps": 5,
+  "pool_size_per_target": 128,
+  "sizes": [
+    1,
+    4,
+    16,
+    64
+  ],
+  "sampled_subsets_per_size": 2,
+  "target_strengths": [
+    0.75,
+    1.25
+  ],
+  "background_strength": 0.25,
+  "groups": 280,
+  "probes": 784,
+  "numpy": "2.5.4",
+  "threads": "4",
+  "amplitude_definition": "Targets: isolated self-activation boundary times strength. Background: equal absolute code amplitude, anchored to A boundary times background strength.",
+  "matched_norm_definition": "Within each family, match every nonempty background to the decoded norm of its nearest single neighbor at the background amplitude.",
+  "pool_union": "Union of top-positive pools excluding all targets; descending best source cosine, feature ID breaks ties.",
+  "storage": "Every float32 state, every float64 contrast, all entries retained; fixed row IDs across steps.",
+  "contrast": "Single: A-background. Pair: AB-A-B+background.",
+  "dynamics": "Raw released-weight round trips; no intermediate normalization; fixed horizon with whole-run failure on nonfinite or 1e6-fold code norm guardrail.",
+  "scope": "Synthetic only; no semantic labels, real activations or LLM interventions.",
+  "elapsed_seconds": 4.586999416351318
+}

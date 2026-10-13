@@ -1,0 +1,79 @@
+[
+  {
+    "family": "120",
+    "source": 120,
+    "destination": 120,
+    "decoder_cosine": 1.0000001192092896,
+    "directed_coupling": 0.7922325730323792
+  },
+  {
+    "family": "11341",
+    "source": 11341,
+    "destination": 11341,
+    "decoder_cosine": 1.0000001192092896,
+    "directed_coupling": 0.7438257932662964
+  },
+  {
+    "family": "12692",
+    "source": 12692,
+    "destination": 12692,
+    "decoder_cosine": 1.0,
+    "directed_coupling": 0.8364077806472778
+  },
+  {
+    "family": "120+6712",
+    "source": 120,
+    "destination": 120,
+    "decoder_cosine": 1.0000001192092896,
+    "directed_coupling": 0.7922325730323792
+  },
+  {
+    "family": "120+6712",
+    "source": 120,
+    "destination": 6712,
+    "decoder_cosine": 0.19424034655094147,
+    "directed_coupling": 0.09629873931407928
+  },
+  {
+    "family": "120+6712",
+    "source": 6712,
+    "destination": 120,
+    "decoder_cosine": 0.19424034655094147,
+    "directed_coupling": 0.1029258668422699
+  },
+  {
+    "family": "120+6712",
+    "source": 6712,
+    "destination": 6712,
+    "decoder_cosine": 1.0,
+    "directed_coupling": 0.8480567932128906
+  },
+  {
+    "family": "120+2499",
+    "source": 120,
+    "destination": 120,
+    "decoder_cosine": 1.0000001192092896,
+    "directed_coupling": 0.7922325730323792
+  },
+  {
+    "family": "120+2499",
+    "source": 120,
+    "destination": 2499,
+    "decoder_cosine": 0.14835579693317413,
+    "directed_coupling": 0.08930033445358276
+  },
+  {
+    "family": "120+2499",
+    "source": 2499,
+    "destination": 120,
+    "decoder_cosine": 0.14835579693317413,
+    "directed_coupling": 0.08183345943689346
+  },
+  {
+    "family": "120+2499",
+    "source": 2499,
+    "destination": 2499,
+    "decoder_cosine": 1.0000001192092896,
+    "directed_coupling": 0.855531632900238
+  }
+]

@@ -2,8 +2,16 @@
 
 ## Current user request and preferences
 
-- Latest request: update Markdown with the subset experiment and interpretability rationale, then commit project files.
-- Plan update is complete. Next experiment is planned, not run. Do not launch new experiments merely because this handoff exists.
+- Newest update: user launched the implemented related-background pilot and
+  supplied its output. Run is complete at `runs/background-pilot-001` and has
+  been analyzed. User prefers to launch experiments themselves; do not launch
+  follow-up experiments without instruction.
+- Implementation: `scripts/backgrounds.py`; analysis:
+  `scripts/analyze_backgrounds.py`; results in the run's `RESULTS.md`.
+  Six tests pass. All saved contrasts and matched norms independently checked.
+  User requested committing this continuation, including implementation,
+  tests, pilot metadata, analysis and documentation.
+- Earlier documentation and pilot files were committed as `94b3d4c`.
 - No LaTeX in user-facing responses. Keep replies and tool outputs concise. User noticed excessive context consumption from web results and large printed arrays.
 - Retain full trajectories for later visualizations. User prefers synthetic related backgrounds before real activations.
 
@@ -29,6 +37,12 @@ Published released-weight equations: `encode(x) = JumpReLU(x @ W_enc + b_enc)`, 
 
 ## Completed experiments
 
+- `background-pilot-001`: 784 probes, 280 groups, five steps. Nonzero counts
+  302/111/24/9/2. All decoded-norm-matched probes zero by step 3. Step-5
+  survivors: full equal-amplitude backgrounds for 120+6712 (240 neighbors)
+  and 120+2499 (245 neighbors), target strength 1.25. Only joint additions
+  survive; background and single additions are zero. No later steps computed.
+  Pool-union sizes can exceed 128. Counts include duplicate controls.
 - `pilot-001`: incomplete final serialization; superseded by `pilot-002`.
 - `pilot-002`: 32 random features, 3 threshold-relative amplitudes; all 96 probes plus zero baseline collapse to zero.
 - `pilot-003`: 128 random features (seed 42), amplitudes 1.25/4/16 times each isolated self-activation boundary. Among 384 feature probes: 251 collapse, 133 hit growth limit; zero baseline also stays zero. No nonzero fixed points found.

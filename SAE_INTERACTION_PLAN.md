@@ -119,7 +119,25 @@ Compute candidate similarities in blocks rather than requiring full dense pair m
 
 ### Next experiment: backgrounds selected by decoder similarity
 
-User-selected direction: use **related-feature backgrounds selected by decoder-vector cosine similarity**. Run this synthetic experiment before collecting real activations. Random backgrounds are optional matched controls, not the primary background type. This experiment has not yet been run.
+User-selected direction: use **related-feature backgrounds selected by decoder-vector cosine similarity**. Run this synthetic experiment before collecting real activations. Random backgrounds are optional matched controls, not the primary background type. The user ran the initial five-step pilot; see `runs/background-pilot-001/RESULTS.md`.
+
+Implementation is available in `scripts/backgrounds.py`; launch instructions are
+in `README.md`. Defaults include the three single
+targets and pairs 120+6712 / 120+2499, two sampled subsets per size, empty-background
+controls, two target strengths (0.75/1.25), and background strength 0.25 relative
+to target A's isolated boundary. Background members have equal absolute code
+amplitudes; the norm-matched condition uses the nearest single neighbor's decoded
+contribution norm as a family-specific reference across sizes. Pair pools are
+the union of each target's top-128 positive neighbors, sorted by best source
+cosine with feature-ID tie breaking. All five steps and full contrasts are saved.
+Six tests pass, including affine contrast cancellation, a gate-induced interaction,
+pool exclusions, reproducibility, and background matching. Of 784 trajectories,
+302/111/24/9/2 were nonzero at steps 1/2/3/4/5. All norm-matched trajectories
+reached zero by step 3. The only step-5 survivors were joint additions of
+120+6712 and 120+2499 with equal-amplitude full-pool backgrounds at target
+strength 1.25. This does not establish persistence at matched total norm or
+behavior beyond step 5. Static pair baselines and first-step outcomes are
+recorded for comparison; predictive validation remains future work.
 
 For each target feature, normalize decoder vectors for neighbor selection only, and rank other features by signed cosine similarity. Prefer positive-cosine neighbors; do not use absolute cosine, which would conflate aligned and opposing directions. Keep original checkpoint weights and raw round-trip dynamics unchanged. Save neighbor IDs, ranks and cosine scores. Verify zero-norm vectors and exclude the target itself.
 
