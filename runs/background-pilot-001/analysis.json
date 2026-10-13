@@ -1,0 +1,154 @@
+{
+  "contrast_nonzero_tolerance": 1e-06,
+  "steps": [
+    {
+      "step": 1,
+      "nonzero_probes": 302,
+      "active_feature_ids": [
+        120,
+        2499,
+        4969,
+        6712,
+        11341,
+        12692
+      ],
+      "by_mode": {
+        "equal_amplitude": {
+          "nonzero_probes": 176,
+          "nonzero_pair_contrasts": 38
+        },
+        "matched_decoded_norm": {
+          "nonzero_probes": 126,
+          "nonzero_pair_contrasts": 28
+        }
+      }
+    },
+    {
+      "step": 2,
+      "nonzero_probes": 111,
+      "active_feature_ids": [
+        120,
+        2499,
+        6712,
+        11341,
+        12692
+      ],
+      "by_mode": {
+        "equal_amplitude": {
+          "nonzero_probes": 83,
+          "nonzero_pair_contrasts": 31
+        },
+        "matched_decoded_norm": {
+          "nonzero_probes": 28,
+          "nonzero_pair_contrasts": 28
+        }
+      }
+    },
+    {
+      "step": 3,
+      "nonzero_probes": 24,
+      "active_feature_ids": [
+        120,
+        2499,
+        6712,
+        11341,
+        12692
+      ],
+      "by_mode": {
+        "equal_amplitude": {
+          "nonzero_probes": 24,
+          "nonzero_pair_contrasts": 10
+        },
+        "matched_decoded_norm": {
+          "nonzero_probes": 0,
+          "nonzero_pair_contrasts": 0
+        }
+      }
+    },
+    {
+      "step": 4,
+      "nonzero_probes": 9,
+      "active_feature_ids": [
+        120,
+        2499,
+        6712
+      ],
+      "by_mode": {
+        "equal_amplitude": {
+          "nonzero_probes": 9,
+          "nonzero_pair_contrasts": 4
+        },
+        "matched_decoded_norm": {
+          "nonzero_probes": 0,
+          "nonzero_pair_contrasts": 0
+        }
+      }
+    },
+    {
+      "step": 5,
+      "nonzero_probes": 2,
+      "active_feature_ids": [
+        120,
+        6712
+      ],
+      "by_mode": {
+        "equal_amplitude": {
+          "nonzero_probes": 2,
+          "nonzero_pair_contrasts": 2
+        },
+        "matched_decoded_norm": {
+          "nonzero_probes": 0,
+          "nonzero_pair_contrasts": 0
+        }
+      }
+    }
+  ],
+  "final_survivors": [
+    {
+      "group_id": 221,
+      "family": "120+6712",
+      "size": 240,
+      "selection": "full",
+      "mode": "equal_amplitude",
+      "target_strength": 1.25,
+      "initial_decoded_contribution_norms": [
+        40.662723541259766,
+        43.59035110473633,
+        43.71518325805664,
+        46.622554779052734
+      ],
+      "conditions": {
+        "background": {},
+        "A": {},
+        "B": {},
+        "AB": {
+          "120": 4.19822883605957,
+          "6712": 4.277981281280518
+        }
+      }
+    },
+    {
+      "group_id": 277,
+      "family": "120+2499",
+      "size": 245,
+      "selection": "full",
+      "mode": "equal_amplitude",
+      "target_strength": 1.25,
+      "initial_decoded_contribution_norms": [
+        35.994686126708984,
+        39.215599060058594,
+        39.51814270019531,
+        42.63179397583008
+      ],
+      "conditions": {
+        "background": {},
+        "A": {},
+        "B": {},
+        "AB": {
+          "120": 3.474630355834961
+        }
+      }
+    }
+  ],
+  "caveat": "Counts include reused or duplicate controls; probes are not independent samples."
+}
