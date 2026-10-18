@@ -21,7 +21,11 @@ def main():
     parser.add_argument('--checkpoint', type=Path, default=Path('checkpoints/gemma3-4b-it-layer17-16k-medium/params.safetensors'))
     parser.add_argument('--output', type=Path, required=True)
     parser.add_argument('--steps', type=int, default=10000)
+    parser.add_argument('--threshold-multiplier', type=float, default=1.0,
+                        help='Multiply learned thresholds during iteration only; z0 uses original thresholds')
     args = parser.parse_args()
+    if not np.isfinite(args.threshold_multiplier) or args.threshold_multiplier <= 0:
+        parser.error('Require a finite positive threshold multiplier')
     if args.steps < 1 or args.output.exists():
         parser.error('Require positive steps and a fresh output directory')
     source = json.loads((args.source / 'manifest.json').read_text())
@@ -49,6 +53,13 @@ def main():
     reconstruction = sae.decode(z)
     if not np.isfinite(z).all() or not np.isfinite(reconstruction).all():
         parser.error('Nonfinite initial SAE output')
+    # Preserve the same initial code across conditions. Scale only the gates,
+    # leaving surviving feature magnitudes and the decoder unchanged.
+    with np.errstate(over='ignore', invalid='ignore'):
+        scaled_threshold = sae.threshold * args.threshold_multiplier
+    if not np.isfinite(scaled_threshold).all() or not (scaled_threshold > 0).all():
+        parser.error('Scaled thresholds must be finite and positive in float32')
+    sae.threshold = scaled_threshold
     args.output.mkdir(parents=True, exist_ok=False)
     probes = [{**e, 'probe_id': i, 'initial_l0': int(np.count_nonzero(z[i])),
                'relative_reconstruction_error': float(np.linalg.norm(reconstruction[i] - x[i]) / max(np.linalg.norm(x[i]), 1e-12))}
@@ -63,7 +74,9 @@ def main():
         'repository': 'google/gemma-scope-2-4b-it',
         'checkpoint_file': 'resid_post/layer_17_width_16k_l0_medium/params.safetensors',
         'dtype': 'float32', 'normalization': 'none', 'steps': args.steps,
-        'inference': 'z0=encode(x); z_next=encode(decode(z)); no input centering',
+        'threshold_multiplier': args.threshold_multiplier,
+        'initial_threshold_multiplier': 1.0,
+        'inference': 'z0=encode_original(x); z_next=encode_scaled_threshold(decode(z)); no input centering',
         'atol': 1e-5, 'rtol': 1e-5, 'consecutive_small_steps': 5,
         'growth_limit': 'code norm > 1e6 * max(initial norm, 1)',
         'other_stops': ['non_finite', 'period_2_candidate', 'max_steps'],

@@ -137,6 +137,28 @@ from partial outputs.
 
 ## Completed pilot results
 
+### Threshold multiplier sweep
+
+Run all 22 non-ambiguous examples sequentially at each multiplier:
+
+```sh
+for mult in 1 2 4 8; do
+  OPENBLAS_NUM_THREADS=2 .venv/bin/python -m scripts.deception_trajectories \
+    --source runs/deception-activations-001 \
+    --output "runs/deception-threshold-sweep-001/alpha-${mult}" \
+    --threshold-multiplier "$mult" --steps 10000 || break
+done
+```
+
+Each condition starts from the same original z0. From step 1 onward, the
+encoder gates use multiplier * learned threshold; surviving magnitudes are
+unchanged. There is no feature-count cap, fixed feature selection or normalization.
+The original stopping checks and lossless storage apply to every condition.
+Each output manifest records both initial and iterative threshold multipliers.
+Use a fresh sweep directory when repeating. Only the SAE is loaded; conditions
+run sequentially. Multipliers 1, 2, 5, 6 and 8 completed; 4 was interrupted
+at step 7,500. See [sweep results and honest/deceptive observations](runs/deception-threshold-sweep-001/RESULTS.md).
+
 The 30-response run is complete with no truncated responses. API judging produced
 19 deceptive, 3 honest and 8 ambiguous labels. Extracted the 22 non-ambiguous
 last-prompt-token activations and ran the matching layer-17 SAE with a 10,000-step
