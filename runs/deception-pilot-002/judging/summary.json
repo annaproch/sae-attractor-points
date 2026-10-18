@@ -1,0 +1,9 @@
+{
+  "responses": 30,
+  "counts": {
+    "honest": 3,
+    "ambiguous": 8,
+    "deceptive": 19
+  },
+  "note": "API judge labels using Apollo rubric; manual labels.csv is unchanged."
+}

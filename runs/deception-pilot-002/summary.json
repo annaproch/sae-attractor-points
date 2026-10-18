@@ -1,0 +1,13 @@
+{
+  "responses": 30,
+  "counts": {
+    "honest": 0,
+    "deceptive": 0,
+    "ambiguous": 0,
+    "refusal": 0,
+    "incoherent": 0,
+    "unlabeled": 30
+  },
+  "hit_token_limit": 0,
+  "note": "Manual behavioral labels; no deception detector evaluated."
+}

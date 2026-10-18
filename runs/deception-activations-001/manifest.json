@@ -1,0 +1,32 @@
+{
+  "status": "complete",
+  "model": "google/gemma-3-4b-it",
+  "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+  "layer": 17,
+  "hook": "model.language_model.layers.17 output (resid_post)",
+  "position": "last saved prompt token including chat generation prefix",
+  "normalization": "none",
+  "dtype": "float32",
+  "device": "cpu",
+  "counts": {
+    "deceptive": 19,
+    "honest": 3
+  },
+  "torch": "2.14.1+cu130",
+  "transformers": "4.57.6",
+  "source_run": "/workspace/project/runs/deception-pilot-002",
+  "input_hashes": {
+    "responses.jsonl": "04a3069c541f284f97040bc6c431063ba788f595e56b8449e97f9b7ea6747e2f",
+    "manifest.json": "7bcb32f76a7097489cb4b856d53a4515827b2e4823d35d84782bde731d7fb706",
+    "judging/judgements.jsonl": "233c9dae8ff111fa69f186bad538db3fa989ae4e3a65c75283597ea2fda48c70",
+    "judging/manifest.json": "373e9a6f8ce330e588861770147b3156184b4f348e28b9d3ca1f2472cf6ef077"
+  },
+  "shape": [
+    22,
+    2560
+  ],
+  "label_encoding": {
+    "honest": 0,
+    "deceptive": 1
+  }
+}
