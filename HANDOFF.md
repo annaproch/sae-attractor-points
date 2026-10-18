@@ -2,6 +2,11 @@
 
 ## Current user request and preferences
 
+- 2026-10-18: user requested a Markdown summary and clarified that “original
+  paper” means arXiv:2505.22785v4, not Gemma Scope. See
+  `CONVERSATION_SUMMARY.md` for the consolidated discussion, results, numerical
+  tolerance correction and paper comparison. The paper motivates local
+  attractors; our SAE's global contraction is not established.
 - Newest update: user launched the implemented related-background pilot and
   supplied its output. Run is complete at `runs/background-pilot-001` and has
   been analyzed. User prefers to launch experiments themselves; do not launch

@@ -1,0 +1,12 @@
+{
+  "dataset": "Salesforce/wikitext",
+  "config": "wikitext-2-raw-v1",
+  "split": "test",
+  "seed": 42,
+  "source_rows_scanned": 1000,
+  "minimum_words": 80,
+  "paragraphs": 100,
+  "sha256": "a8e25f8c54f181090c8338c19d1d2b3fab72c6a3b6f45cc187d608ed21b05b5d",
+  "source": "https://huggingface.co/datasets/Salesforce/wikitext",
+  "note": "Wikipedia-derived WikiText paragraphs; no tokenization or model forward pass yet."
+}

@@ -26,6 +26,11 @@ norm tolerance of 1e-6. These contrasts measure AB minus A minus B plus the
 background trajectory. Their existence alone does not show an effect beyond
 what gated affine dynamics predict.
 
+Numerical sensitivity check: raising the tolerance to 1e-5, 1e-4 or 1e-3 gives
+62 pair contrasts at step 1 and 57 at step 2, rather than 66 and 59. The excluded
+contrasts are consistent with float32 roundoff and should not be counted as
+substantive interactions. Counts at steps 3–5 remain 10, 4 and 2.
+
 Only two joint-addition conditions remained nonzero at step 5:
 
 - Group 221: 120+6712, full union of 240 neighbors, equal-amplitude background,
@@ -41,6 +46,27 @@ did not survive to step 5. Thus the observed longer persistence occurs in the
 large-total-input conditions, and is not demonstrated at the tested matched
 norm. No later steps were computed, so neither survival nor collapse beyond
 step 5 is established for these two conditions.
+
+### Closer inspection of the survivors
+
+Both joint trajectories shrink after the first step. For 120+6712, the joint
+amplitudes are (11.010, 11.219), (9.008, 9.338), (7.228, 7.550),
+(5.635, 5.863), and (4.198, 4.278) at steps 1–5. The background path turns
+off at step 3; A-only and B-only turn off at step 5. The joint contrast is
+within 6e-6 of zero for steps 1–2, then reaches norm 3.378 at step 3 as the
+background path crosses its gates. Joint survival is therefore a concrete
+example of delayed threshold crossing, not observed runaway growth.
+
+For 120+2499, the joint path starts at (10.835, 11.589) at step 1, shrinks
+through (5.016, 4.519) at step 4, and loses feature 2499 at step 5. It is
+not maintaining a stable two-feature state.
+
+The two-coordinate decoder-to-encoder feedback matrices have largest
+eigenvalues 0.92354 (120/6712) and 0.91504 (120/2499), with negative affine
+biases for both coordinates. Within these fixed supports, this supports the
+interpretation of decaying activity with mutual reinforcement delaying
+switch-off. This restricted calculation does not establish the behavior of
+the full map if other features become active, and no extra rollout was run.
 
 ## Interpretation and limits
 

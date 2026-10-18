@@ -8,6 +8,12 @@ Writing preference: use plain-text equations and notation, not LaTeX.
 
 The starting paper is [Navigating the Latent Space Dynamics of Neural Models](https://arxiv.org/html/2505.22785v4), by Fumero, Moschella, Rodolà and Locatello (ICLR 2026). It studies repeated decoding and encoding, interpreting stable endpoints and trajectories as probes of an autoencoder. Section 6.1 explicitly proposes applying this to SAEs for LLM interpretability; it does not provide an empirical study of modern LLM SAEs. Appendix C discusses sparsity as a source of contractive pressure.
 
+The consolidated [conversation summary](CONVERSATION_SUMMARY.md) records the
+2026-10-18 clarification about this paper, both completed experiments, and the
+later inspection of shrinking pair survivors and float32 contrast sensitivity.
+Our assessment is that sparsity alone does not bound active feedback gain below
+one; contraction must be checked for this checkpoint and the regions visited.
+
 Our question: what do repeated round trips reveal about feature interactions, beyond static feature similarity?
 
 Define `F(z) = encode(decode(z))`. Start with a sparse code and repeatedly apply F. These are dynamics of the SAE, not the LLM's own computation. A stable endpoint is not automatically a semantic concept, and an interaction is not automatically an LLM causal connection.

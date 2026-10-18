@@ -1,0 +1,23 @@
+{
+  "model": "google/gemma-2-2b",
+  "requested_revision": "main",
+  "resolved_revision": "c5ebcd40d208330abc697524c919956e692655cf",
+  "hook": "blocks.12.hook_resid_post (hidden_states[13])",
+  "checkpoint": "checkpoints/gemma-layer12-16k-l0-82.npz",
+  "checkpoint_sha256": "afae57c7fdfe6faace4b97d9fe9a184deb08bda8852a4c40b308cf6c72ed8384",
+  "texts_sha256": "a8e25f8c54f181090c8338c19d1d2b3fab72c6a3b6f45cc187d608ed21b05b5d",
+  "seed": 42,
+  "probes": 100,
+  "max_tokens": 256,
+  "sampling": "One non-special token per paragraph, after 32 non-special tokens",
+  "device": "cpu",
+  "model_dtype": "torch.float32",
+  "sae_dtype": "float32",
+  "torch": "2.14.1+cu130",
+  "transformers": "4.57.6",
+  "steps": 200,
+  "atol": 1e-05,
+  "rtol": 1e-05,
+  "consecutive_small_steps": 5,
+  "normalization": "none; raw released SAE weights"
+}
