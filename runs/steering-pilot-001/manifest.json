@@ -1,0 +1,47 @@
+{
+  "status": "complete",
+  "model": "google/gemma-3-4b-it",
+  "revision": "093f9f388b31de276ce2de164bdc2081324b9767",
+  "layer": 17,
+  "device": "cpu",
+  "dtype": "float32",
+  "seed": 0,
+  "steps": 100,
+  "checkpoint": "/workspace/project/checkpoints/gemma3-4b-it-layer17-16k-medium/params.safetensors",
+  "checkpoint_sha256": "f67e2305cfd1703d8a685d99fb25b6f25a2feaaa4eb45ef08a467f400b696d71",
+  "config": {
+    "hf_hook_point_in": "model.layers.17.output",
+    "hf_hook_point_out": "model.layers.17.output",
+    "width": 16384,
+    "model_name": "google/gemma-3-4b-it",
+    "architecture": "jump_relu",
+    "l0": 60,
+    "affine_connection": false,
+    "type": "sae"
+  },
+  "torch": "2.14.1+cu130",
+  "transformers": "4.57.6",
+  "alphas": [
+    0.0,
+    1.0,
+    2.0,
+    4.0,
+    8.0
+  ],
+  "max_new_tokens": 96,
+  "threshold_multiplier": 1,
+  "intervention": "add raw alpha*v to block output at all prompt and generated positions",
+  "capture": "last prompt token after intervention, first generation forward pass",
+  "decoding": "greedy",
+  "source": "https://github.com/jonathanbostock/activation-steering-sweep",
+  "caveat": "New layer-17 calibration; moderate/strong are not outcome labels; hawk contrast is source wording, not correct taxonomy",
+  "vector_norm": 1143.115234375,
+  "limit": 5,
+  "batch_size": 3,
+  "execution_history": [
+    {
+      "batch_size": 3,
+      "resume_after": 3
+    }
+  ]
+}

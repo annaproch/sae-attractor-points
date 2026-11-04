@@ -1,0 +1,15 @@
+{
+  "counts": {
+    "growth_limit": 22
+  },
+  "by_label": {
+    "honest": {
+      "growth_limit": 3
+    },
+    "deceptive": {
+      "growth_limit": 19
+    }
+  },
+  "elapsed_seconds": 0.8307407079992117,
+  "max_final_step": 14
+}

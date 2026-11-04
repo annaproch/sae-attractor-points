@@ -1,0 +1,135 @@
+{
+  "continued_probes": 17,
+  "nonzero_fixed_point_candidates": 17,
+  "total_steps_min_median_max": [
+    406.0,
+    985.0,
+    1260.0
+  ],
+  "groups": [
+    {
+      "features": [
+        6810
+      ],
+      "count": 4,
+      "source_probe_ids": [
+        13,
+        26,
+        28,
+        48
+      ],
+      "solved_amplitudes": [
+        10.109882090325007
+      ],
+      "spectral_radius": 0.9931913294200035,
+      "minimum_active_threshold_margin": 6.874533627266459,
+      "minimum_inactive_threshold_margin": 2.741991496747541,
+      "solved_fixed_residual_float64": 7.638334409421077e-14,
+      "maximum_saved_endpoint_distance": 0.013119008307805657
+    },
+    {
+      "features": [
+        2620,
+        6810
+      ],
+      "count": 2,
+      "source_probe_ids": [
+        15,
+        70
+      ],
+      "solved_amplitudes": [
+        4.586532639634315,
+        9.594343910547506
+      ],
+      "spectral_radius": 0.9933804849790399,
+      "minimum_active_threshold_margin": 1.367950963151162,
+      "minimum_inactive_threshold_margin": 2.7465363480525067,
+      "solved_fixed_residual_float64": 3.5704882941726837e-13,
+      "maximum_saved_endpoint_distance": 0.009004704098660998
+    },
+    {
+      "features": [
+        6810,
+        7507
+      ],
+      "count": 5,
+      "source_probe_ids": [
+        17,
+        24,
+        32,
+        60,
+        72
+      ],
+      "solved_amplitudes": [
+        9.341114019128813,
+        7.565230946375927
+      ],
+      "spectral_radius": 0.9932118177632495,
+      "minimum_active_threshold_margin": 4.4450913475295035,
+      "minimum_inactive_threshold_margin": 2.766479484000925,
+      "solved_fixed_residual_float64": 3.8034367721763055e-13,
+      "maximum_saved_endpoint_distance": 0.01998627532576954
+    },
+    {
+      "features": [
+        2620,
+        6810,
+        7507
+      ],
+      "count": 3,
+      "source_probe_ids": [
+        44,
+        77,
+        96
+      ],
+      "solved_amplitudes": [
+        4.0787510950053,
+        8.890868472931025,
+        7.484373008899045
+      ],
+      "spectral_radius": 0.9933941080384593,
+      "minimum_active_threshold_margin": 0.8601694185221547,
+      "minimum_inactive_threshold_margin": 2.7823421476730714,
+      "solved_fixed_residual_float64": 1.7785758994027377e-13,
+      "maximum_saved_endpoint_distance": 0.031391220522351646
+    },
+    {
+      "features": [
+        2620
+      ],
+      "count": 2,
+      "source_probe_ids": [
+        61,
+        74
+      ],
+      "solved_amplitudes": [
+        6.187667437739303
+      ],
+      "spectral_radius": 0.9796197451648516,
+      "minimum_active_threshold_margin": 2.9690857612561423,
+      "minimum_inactive_threshold_margin": 2.736044143972887,
+      "solved_fixed_residual_float64": 6.217248937900877e-15,
+      "maximum_saved_endpoint_distance": 0.0031208313036659163
+    },
+    {
+      "features": [
+        2620,
+        7507
+      ],
+      "count": 1,
+      "source_probe_ids": [
+        99
+      ],
+      "solved_amplitudes": [
+        5.546251007756441,
+        7.678750981887173
+      ],
+      "spectral_radius": 0.9796845918070276,
+      "minimum_active_threshold_margin": 2.3276693312732872,
+      "minimum_inactive_threshold_margin": 2.7645271241195815,
+      "solved_fixed_residual_float64": 7.160723346098895e-15,
+      "maximum_saved_endpoint_distance": 0.004476808359148687
+    }
+  ],
+  "method": "Solve each observed fixed-support affine map in float64 using released weights. Positive margins verify all gates; spectral radius below one establishes local asymptotic stability in exact arithmetic. No additional rollouts or perturbation experiments performed."
+}

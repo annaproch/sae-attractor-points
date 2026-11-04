@@ -38,6 +38,18 @@ class Tests(unittest.TestCase):
             self.assertEqual(records[1]['status'], 'fixed_point_candidate')
             np.testing.assert_array_equal(sparse.load_npz(Path(d)/'states/step_00001.npz').toarray(), [[0,1],[0,0]])
 
+    def test_scaled_threshold_allows_new_features_and_preserves_magnitude(self):
+        with tempfile.TemporaryDirectory() as d:
+            p = Path(d)/'weights.npz'
+            np.savez(p, W_enc=np.eye(3), W_dec=np.eye(3), b_enc=np.zeros(3),
+                     b_dec=np.array([0., 0., 5.]), threshold=np.array([1., 2., 2.]))
+            sae = SAE(p)
+            initial = sae.encode(np.array([[1.5, 5., 0.]], dtype=np.float32))
+            sae.threshold = sae.threshold * 2
+            _, _ = rollout(sae, initial, Path(d)/'states', 1)
+            np.testing.assert_array_equal(sparse.load_npz(Path(d)/'states/step_00000.npz').toarray(), [[1.5,5,0]])
+            np.testing.assert_array_equal(sparse.load_npz(Path(d)/'states/step_00001.npz').toarray(), [[0,5,5]])
+
 
 if __name__ == '__main__':
     unittest.main()

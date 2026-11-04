@@ -18,9 +18,15 @@ from scipy import sparse
 
 class SAE:
     def __init__(self, path):
-        with np.load(path, allow_pickle=False) as params:
+        if Path(path).suffix == '.safetensors':
+            from safetensors.numpy import load_file
+            params = load_file(str(path))
             for key in ('W_enc', 'W_dec', 'b_enc', 'b_dec', 'threshold'):
-                setattr(self, key, np.asarray(params[key], dtype=np.float32))
+                setattr(self, key, np.asarray(params[key.lower()], dtype=np.float32))
+        else:
+            with np.load(path, allow_pickle=False) as params:
+                for key in ('W_enc', 'W_dec', 'b_enc', 'b_dec', 'threshold'):
+                    setattr(self, key, np.asarray(params[key], dtype=np.float32))
         self.width, self.dim = self.W_dec.shape
         assert self.W_enc.shape == (self.dim, self.width)
         assert self.b_enc.shape == self.threshold.shape == (self.width,)

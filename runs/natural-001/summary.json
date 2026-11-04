@@ -1,0 +1,9 @@
+{
+  "counts": {
+    "growth_limit": 83,
+    "max_steps": 17
+  },
+  "zero_endpoints": 0,
+  "mean_initial_l0": 87.07,
+  "mean_relative_reconstruction_error": 0.397058022916317
+}
