@@ -1,0 +1,178 @@
+[
+  {
+    "probe_id": 0,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.577392578125,
+    "fixed_residual": 0.011032347567379475
+  },
+  {
+    "probe_id": 1,
+    "status": "fixed_point_candidate",
+    "final_step": 77,
+    "l0": 2,
+    "norm": 2192.576904296875,
+    "fixed_residual": 0.010811323300004005
+  },
+  {
+    "probe_id": 2,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.572998046875,
+    "fixed_residual": 0.010708844289183617
+  },
+  {
+    "probe_id": 3,
+    "status": "fixed_point_candidate",
+    "final_step": 77,
+    "l0": 2,
+    "norm": 2192.568359375,
+    "fixed_residual": 0.011606312356889248
+  },
+  {
+    "probe_id": 4,
+    "status": "fixed_point_candidate",
+    "final_step": 43,
+    "l0": 1,
+    "norm": 923.9268798828125,
+    "fixed_residual": 0.0028076171875
+  },
+  {
+    "probe_id": 5,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.575927734375,
+    "fixed_residual": 0.010811323300004005
+  },
+  {
+    "probe_id": 6,
+    "status": "fixed_point_candidate",
+    "final_step": 75,
+    "l0": 2,
+    "norm": 2192.576904296875,
+    "fixed_residual": 0.010811323300004005
+  },
+  {
+    "probe_id": 7,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.577880859375,
+    "fixed_residual": 0.01093193981796503
+  },
+  {
+    "probe_id": 8,
+    "status": "fixed_point_candidate",
+    "final_step": 76,
+    "l0": 2,
+    "norm": 2192.571533203125,
+    "fixed_residual": 0.01093193981796503
+  },
+  {
+    "probe_id": 9,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.572998046875,
+    "fixed_residual": 0.010708844289183617
+  },
+  {
+    "probe_id": 10,
+    "status": "fixed_point_candidate",
+    "final_step": 77,
+    "l0": 2,
+    "norm": 2192.5693359375,
+    "fixed_residual": 0.0111083984375
+  },
+  {
+    "probe_id": 11,
+    "status": "fixed_point_candidate",
+    "final_step": 79,
+    "l0": 2,
+    "norm": 2192.578125,
+    "fixed_residual": 0.010811323300004005
+  },
+  {
+    "probe_id": 12,
+    "status": "fixed_point_candidate",
+    "final_step": 76,
+    "l0": 2,
+    "norm": 2192.575927734375,
+    "fixed_residual": 0.010811323300004005
+  },
+  {
+    "probe_id": 13,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.568359375,
+    "fixed_residual": 0.011606312356889248
+  },
+  {
+    "probe_id": 14,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.57568359375,
+    "fixed_residual": 0.010538422502577305
+  },
+  {
+    "probe_id": 15,
+    "status": "fixed_point_candidate",
+    "final_step": 78,
+    "l0": 2,
+    "norm": 2192.569091796875,
+    "fixed_residual": 0.011155917309224606
+  },
+  {
+    "probe_id": 16,
+    "status": "fixed_point_candidate",
+    "final_step": 77,
+    "l0": 2,
+    "norm": 2192.567626953125,
+    "fixed_residual": 0.011428415775299072
+  },
+  {
+    "probe_id": 17,
+    "status": "fixed_point_candidate",
+    "final_step": 76,
+    "l0": 2,
+    "norm": 2192.57568359375,
+    "fixed_residual": 0.010538422502577305
+  },
+  {
+    "probe_id": 18,
+    "status": "fixed_point_candidate",
+    "final_step": 77,
+    "l0": 2,
+    "norm": 2192.577880859375,
+    "fixed_residual": 0.01093193981796503
+  },
+  {
+    "probe_id": 19,
+    "status": "fixed_point_candidate",
+    "final_step": 44,
+    "l0": 1,
+    "norm": 923.8936767578125,
+    "fixed_residual": 0.0030517578125
+  },
+  {
+    "probe_id": 20,
+    "status": "fixed_point_candidate",
+    "final_step": 77,
+    "l0": 2,
+    "norm": 2192.571044921875,
+    "fixed_residual": 0.011334148235619068
+  },
+  {
+    "probe_id": 21,
+    "status": "fixed_point_candidate",
+    "final_step": 74,
+    "l0": 2,
+    "norm": 2192.57568359375,
+    "fixed_residual": 0.010538422502577305
+  }
+]

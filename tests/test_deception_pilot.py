@@ -57,5 +57,9 @@ class PilotTests(unittest.TestCase):
             self.assertEqual(available_host_memory(meminfo, root), 22 * gib)
             (root / 'memory.stat').write_text(f'inactive_file {8*gib}\nfile_dirty {gib}\nfile_writeback 0\n')
             self.assertEqual(available_host_memory(meminfo, root), 29 * gib)
+            (root / 'memory.stat').write_text(
+                f'inactive_file {gib}\nactive_file {8*gib}\nfile_mapped {gib}\n'
+                f'shmem {gib}\nfile_dirty {gib}\nfile_writeback {gib}\n')
+            self.assertEqual(available_host_memory(meminfo, root), 27 * gib)
             meminfo.write_text(f'MemAvailable: {20 * gib // 1024} kB\n')
             self.assertEqual(available_host_memory(meminfo, root), 20 * gib)

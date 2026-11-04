@@ -1,0 +1,18 @@
+{
+  "counts": {
+    "fixed_point_candidate": 20,
+    "growth_limit": 2
+  },
+  "by_label": {
+    "honest": {
+      "fixed_point_candidate": 2,
+      "growth_limit": 1
+    },
+    "deceptive": {
+      "fixed_point_candidate": 18,
+      "growth_limit": 1
+    }
+  },
+  "elapsed_seconds": 3.4915330010007892,
+  "max_final_step": 81
+}

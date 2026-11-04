@@ -70,11 +70,15 @@ def available_host_memory(meminfo=Path('/proc/meminfo'), root=Path('/sys/fs/cgro
         limit = (root / 'memory.max').read_text().strip()
         if limit != 'max':
             current = int((root / 'memory.current').read_text())
-            # Inactive clean file pages can be reclaimed under memory pressure.
-            # Do not credit active cache, anonymous memory, or dirty/writeback pages.
+            # Clean file cache is reclaimable even on the active LRU. Exclude
+            # mapped files and shared memory conservatively, plus dirty/writeback
+            # pages. Host MemAvailable remains an independent upper bound.
             stats_path = root / 'memory.stat'
             stats = dict(line.split() for line in stats_path.read_text().splitlines()) if stats_path.exists() else {}
             reclaimable = max(0, int(stats.get('inactive_file', 0))
+                              + int(stats.get('active_file', 0))
+                              - int(stats.get('file_mapped', 0))
+                              - int(stats.get('shmem', 0))
                               - int(stats.get('file_dirty', 0))
                               - int(stats.get('file_writeback', 0)))
             headroom = int(limit) - current + min(current, reclaimable)

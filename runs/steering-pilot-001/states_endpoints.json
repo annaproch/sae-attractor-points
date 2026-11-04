@@ -1,0 +1,362 @@
+[
+  {
+    "probe_id": 0,
+    "status": "growth_limit",
+    "final_step": 20,
+    "l0": 8745,
+    "norm": 4711322112.0,
+    "fixed_residual": 116539105280.0
+  },
+  {
+    "probe_id": 1,
+    "status": "growth_limit",
+    "final_step": 19,
+    "l0": 9348,
+    "norm": 23371102208.0,
+    "fixed_residual": 537612976128.0
+  },
+  {
+    "probe_id": 2,
+    "status": "growth_limit",
+    "final_step": 19,
+    "l0": 9906,
+    "norm": 7733603328.0,
+    "fixed_residual": 175632875520.0
+  },
+  {
+    "probe_id": 3,
+    "status": "growth_limit",
+    "final_step": 22,
+    "l0": 7507,
+    "norm": 13814600704.0,
+    "fixed_residual": 331403689984.0
+  },
+  {
+    "probe_id": 4,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 11008,
+    "norm": 94178885632.0,
+    "fixed_residual": 2788111679488.0
+  },
+  {
+    "probe_id": 5,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 5823,
+    "norm": 6143371776.0,
+    "fixed_residual": 108830842880.0
+  },
+  {
+    "probe_id": 6,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 6828,
+    "norm": 12613682176.0,
+    "fixed_residual": 254075682816.0
+  },
+  {
+    "probe_id": 7,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 5667,
+    "norm": 9393498112.0,
+    "fixed_residual": 161968504832.0
+  },
+  {
+    "probe_id": 8,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 6669,
+    "norm": 35407699968.0,
+    "fixed_residual": 706089779200.0
+  },
+  {
+    "probe_id": 9,
+    "status": "growth_limit",
+    "final_step": 16,
+    "l0": 10960,
+    "norm": 37674803200.0,
+    "fixed_residual": 999484882944.0
+  },
+  {
+    "probe_id": 10,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 10983,
+    "norm": 6554006016.0,
+    "fixed_residual": 190564843520.0
+  },
+  {
+    "probe_id": 11,
+    "status": "growth_limit",
+    "final_step": 16,
+    "l0": 10970,
+    "norm": 39751012352.0,
+    "fixed_residual": 1070595899392.0
+  },
+  {
+    "probe_id": 12,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 10458,
+    "norm": 10940236800.0,
+    "fixed_residual": 248239800320.0
+  },
+  {
+    "probe_id": 13,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 11130,
+    "norm": 33392818176.0,
+    "fixed_residual": 956151824384.0
+  },
+  {
+    "probe_id": 14,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 5648,
+    "norm": 20998967296.0,
+    "fixed_residual": 364536037376.0
+  },
+  {
+    "probe_id": 15,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 6919,
+    "norm": 34780852224.0,
+    "fixed_residual": 711062519808.0
+  },
+  {
+    "probe_id": 16,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 6053,
+    "norm": 21489217536.0,
+    "fixed_residual": 393616424960.0
+  },
+  {
+    "probe_id": 17,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 7011,
+    "norm": 63571468288.0,
+    "fixed_residual": 1334554525696.0
+  },
+  {
+    "probe_id": 18,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 6496,
+    "norm": 18567137280.0,
+    "fixed_residual": 361857155072.0
+  },
+  {
+    "probe_id": 19,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 6103,
+    "norm": 25612996608.0,
+    "fixed_residual": 474381516800.0
+  },
+  {
+    "probe_id": 20,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 6567,
+    "norm": 4894942720.0,
+    "fixed_residual": 96191684608.0
+  },
+  {
+    "probe_id": 21,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 6507,
+    "norm": 76735143936.0,
+    "fixed_residual": 1495802314752.0
+  },
+  {
+    "probe_id": 22,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 7026,
+    "norm": 4401568768.0,
+    "fixed_residual": 90986643456.0
+  },
+  {
+    "probe_id": 23,
+    "status": "growth_limit",
+    "final_step": 10,
+    "l0": 2919,
+    "norm": 14867208192.0,
+    "fixed_residual": 195581935616.0
+  },
+  {
+    "probe_id": 24,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 6912,
+    "norm": 11650893824.0,
+    "fixed_residual": 239022800896.0
+  },
+  {
+    "probe_id": 25,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 3815,
+    "norm": 38202089472.0,
+    "fixed_residual": 535258333184.0
+  },
+  {
+    "probe_id": 26,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 6251,
+    "norm": 313138315264.0,
+    "fixed_residual": 5890716991488.0
+  },
+  {
+    "probe_id": 27,
+    "status": "growth_limit",
+    "final_step": 16,
+    "l0": 11174,
+    "norm": 82645311488.0,
+    "fixed_residual": 2395503591424.0
+  },
+  {
+    "probe_id": 28,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 7823,
+    "norm": 36366303232.0,
+    "fixed_residual": 786856411136.0
+  },
+  {
+    "probe_id": 29,
+    "status": "growth_limit",
+    "final_step": 13,
+    "l0": 11112,
+    "norm": 4779298304.0,
+    "fixed_residual": 135131906048.0
+  },
+  {
+    "probe_id": 30,
+    "status": "growth_limit",
+    "final_step": 11,
+    "l0": 5441,
+    "norm": 8173522432.0,
+    "fixed_residual": 138442883072.0
+  },
+  {
+    "probe_id": 31,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 11958,
+    "norm": 12141860864.0,
+    "fixed_residual": 318517968896.0
+  },
+  {
+    "probe_id": 32,
+    "status": "growth_limit",
+    "final_step": 8,
+    "l0": 5468,
+    "norm": 12739770368.0,
+    "fixed_residual": 214195437568.0
+  },
+  {
+    "probe_id": 33,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 6516,
+    "norm": 123792269312.0,
+    "fixed_residual": 2422559211520.0
+  },
+  {
+    "probe_id": 34,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 5835,
+    "norm": 28377214976.0,
+    "fixed_residual": 500393869312.0
+  },
+  {
+    "probe_id": 35,
+    "status": "growth_limit",
+    "final_step": 6,
+    "l0": 6656,
+    "norm": 90175504384.0,
+    "fixed_residual": 1809351180288.0
+  },
+  {
+    "probe_id": 36,
+    "status": "growth_limit",
+    "final_step": 14,
+    "l0": 10314,
+    "norm": 21526063104.0,
+    "fixed_residual": 616587591680.0
+  },
+  {
+    "probe_id": 37,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 8774,
+    "norm": 3963821056.0,
+    "fixed_residual": 100572979200.0
+  },
+  {
+    "probe_id": 38,
+    "status": "growth_limit",
+    "final_step": 15,
+    "l0": 9837,
+    "norm": 16281099264.0,
+    "fixed_residual": 459437342720.0
+  },
+  {
+    "probe_id": 39,
+    "status": "growth_limit",
+    "final_step": 23,
+    "l0": 3695,
+    "norm": 12770947072.0,
+    "fixed_residual": 119608647680.0
+  },
+  {
+    "probe_id": 40,
+    "status": "growth_limit",
+    "final_step": 16,
+    "l0": 6200,
+    "norm": 15115800576.0,
+    "fixed_residual": 208204398592.0
+  },
+  {
+    "probe_id": 41,
+    "status": "growth_limit",
+    "final_step": 12,
+    "l0": 7067,
+    "norm": 12089008128.0,
+    "fixed_residual": 251534327808.0
+  },
+  {
+    "probe_id": 42,
+    "status": "growth_limit",
+    "final_step": 9,
+    "l0": 6190,
+    "norm": 128066215936.0,
+    "fixed_residual": 2407010664448.0
+  },
+  {
+    "probe_id": 43,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 4803,
+    "norm": 21535909888.0,
+    "fixed_residual": 323921641472.0
+  },
+  {
+    "probe_id": 44,
+    "status": "growth_limit",
+    "final_step": 7,
+    "l0": 6613,
+    "norm": 273378557952.0,
+    "fixed_residual": 5412897161216.0
+  }
+]

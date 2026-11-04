@@ -1,0 +1,14 @@
+{
+  "source": "https://raw.githubusercontent.com/ApolloResearch/deception-detection/main/data/roleplaying/dataset.yaml",
+  "source_sha256": "7d3e36dc9a2fa72ff823b651c2ade2e0fc34c5bc6267cdf9b7be8b046ed2e564",
+  "model": "google/gemma-3-4b-it",
+  "requested_revision": "main",
+  "seed": 42,
+  "limit": 30,
+  "max_new_tokens": 256,
+  "device": "cpu",
+  "sampling": "seeded random scenarios, greedy generation",
+  "prompt_adaptation": "Scenario and question combined in user turn for Gemma chat",
+  "status": "prepared",
+  "labeling": "manual; blank labels are not honest labels"
+}

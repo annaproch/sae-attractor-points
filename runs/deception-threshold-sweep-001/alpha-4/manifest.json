@@ -1,0 +1,45 @@
+{
+  "status": "running",
+  "source": "/workspace/project/runs/deception-activations-001",
+  "source_hashes": {
+    "activations.npy": "26dee9ec00bc2d0efe7caaf39d1c23d881d842989cfcf487e14c5ffc40bcea24",
+    "labels.npy": "8ce992ffdde9233c074969020e8e0f6e17b88654f00ddd9ac94e2e45d00135a2",
+    "examples.json": "96066b207b8ecb92522af02f7e10f3a81b153dc210c17a12d83d212b2991f860",
+    "manifest.json": "e366173ec8823162a19a507c615c101f451880e9457e6521cbb1d9c2e3b2c522"
+  },
+  "checkpoint": "/workspace/project/checkpoints/gemma3-4b-it-layer17-16k-medium/params.safetensors",
+  "checkpoint_sha256": "f67e2305cfd1703d8a685d99fb25b6f25a2feaaa4eb45ef08a467f400b696d71",
+  "config": {
+    "hf_hook_point_in": "model.layers.17.output",
+    "hf_hook_point_out": "model.layers.17.output",
+    "width": 16384,
+    "model_name": "google/gemma-3-4b-it",
+    "architecture": "jump_relu",
+    "l0": 60,
+    "affine_connection": false,
+    "type": "sae"
+  },
+  "config_sha256": "909387542741be76d6f898795b35d3174579bf23db63636d23d2f828b026153b",
+  "repository": "google/gemma-scope-2-4b-it",
+  "checkpoint_file": "resid_post/layer_17_width_16k_l0_medium/params.safetensors",
+  "dtype": "float32",
+  "normalization": "none",
+  "steps": 10000,
+  "threshold_multiplier": 4.0,
+  "initial_threshold_multiplier": 1.0,
+  "inference": "z0=encode_original(x); z_next=encode_scaled_threshold(decode(z)); no input centering",
+  "atol": 1e-05,
+  "rtol": 1e-05,
+  "consecutive_small_steps": 5,
+  "growth_limit": "code norm > 1e6 * max(initial norm, 1)",
+  "other_stops": [
+    "non_finite",
+    "period_2_candidate",
+    "max_steps"
+  ],
+  "trajectory_format": "lossless sparse float32 states at every step, including z0; row IDs in matching probe_ids files",
+  "counts": {
+    "deceptive": 19,
+    "honest": 3
+  }
+}
