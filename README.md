@@ -2,6 +2,10 @@ https://proceedings.iclr.cc/paper_files/paper/2026/file/2a5a41a536d3ada8fbf61a9d
 
 # SAE trajectory experiments
 
+Third-party text, datasets, and adapted prompts are described in
+[THIRD_PARTY_NOTICES.md](THIRD_PARTY_NOTICES.md), including source links,
+license information, and unresolved upstream terms.
+
 Natural-input pilot text: `data/natural-text-001/texts.jsonl` contains 100
 Wikipedia-derived paragraphs sampled from WikiText-2's test split (seed 42).
 Source row IDs and a manifest are saved alongside the text. This is text only;
